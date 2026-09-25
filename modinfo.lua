@@ -1,0 +1,10 @@
+name = "天界"
+description = "天界"
+author = "天体英雄"
+version = "1.0.0"
+forumthread = ""
+api_version = 10
+dst_compatible = true
+all_clients_require_mod = true
+client_only_mod = false
+server_filter_tags = {"moonisland", "worldgen"}

@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neo的天界地图编辑器！</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { display: flex; width: 100vw; height: 100vh; background: #0c0d0e; color: #dcdcdc; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; overflow: hidden; }
+        
+        ::-webkit-scrollbar { width: 5px; height: 5px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: #374151; border-radius: 3px; }
+        ::-webkit-scrollbar-thumb:hover { background: #4b5563; }
+
+        /* 左侧面板 */
+        #sidebar-left { width: 310px; height: 100vh; background: #1a1c20; border-right: 1px solid #2d3036; display: flex; flex-direction: column; z-index: 10; overflow: hidden; flex-shrink: 0; }
+        .sidebar-header { padding: 10px 14px; border-bottom: 1px solid #2d3036; font-size: 13px; font-weight: 600; color: #fff; display: flex; justify-content: space-between; align-items: center; flex-shrink: 0; }
+        .sidebar-scroll { flex: 1; min-height: 0; overflow-y: auto; overflow-x: hidden; padding: 10px; display: flex; flex-direction: column; gap: 10px; }
+        
+        #layers-list { margin-top: 6px; max-height: 46vh; overflow-y: auto; overflow-x: hidden; padding-right: 2px; }
+
+        .panel-box { background: #22252a; border: 1px solid #31353d; border-radius: 6px; padding: 10px; }
+        .panel-title { font-size: 12px; font-weight: 600; color: #9aa0a6; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; display: flex; justify-content: space-between; align-items: center; }
+        .form-row { display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px; font-size: 12px; gap: 6px; }
+        .form-row:last-child { margin-bottom: 0; }
+        
+        input[type="text"], input[type="number"], select { background: #16181b; border: 1px solid #3a3f47; color: #fff; padding: 4px 6px; border-radius: 4px; font-size: 12px; outline: none; }
+        input[type="text"]:focus, input[type="number"]:focus, select:focus { border-color: #3b82f6; }
+        input[type="checkbox"] { accent-color: #2563eb; cursor: pointer; }
+        
+        button { background: #2563eb; color: #fff; border: none; padding: 5px 8px; border-radius: 4px; cursor: pointer; font-size: 11px; font-weight: 500; transition: all 0.15s; }
+        button:hover { background: #1d4ed8; }
+        button.btn-secondary { background: #374151; color: #94a3b8; }
+        button.btn-secondary:hover { background: #4b5563; color: #fff; }
+        button.btn-active { background: #2563eb; color: #fff; font-weight: 600; box-shadow: 0 0 6px rgba(37, 99, 235, 0.4); }
+        button.btn-danger { background: #dc2626; }
+        button.btn-danger:hover { background: #b91c1c; }
+        button.btn-sm { padding: 2px 6px; font-size: 11px; }
+
+        /* 图层项 */
+        .layer-item { display: flex; flex-direction: column; gap: 6px; background: #181a1e; border: 1px solid #2d3036; padding: 6px 8px; border-radius: 4px; margin-bottom: 6px; transition: border-color 0.2s, background 0.2s; user-select: none; }
+        .layer-item.selected { border-color: #2563eb; background: #1a2233; }
+        .layer-item.active { border-color: #60a5fa; box-shadow: inset 0 0 0 1px #60a5fa; }
+        .layer-name { flex: 1; font-size: 12px; color: #f3f4f6; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; cursor: pointer; }
+
+        /* 中间主视口 */
+        #viewport-container { flex: 1; height: 100vh; position: relative; background: #0c0d0e; overflow: hidden; }
+        canvas { width: 100%; height: 100%; display: block; }
+
+        /* 顶部悬浮工具条挂载容器 */
+        #toolbar-container {
+            position: absolute;
+            top: 12px;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 30;
+            display: flex;
+            align-items: center;
+        }
+
+        #floating-tool-indicator {
+            position: absolute;
+            top: 54px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(26, 28, 32, 0.88);
+            border: 1px solid #3a3f4a;
+            padding: 2px 10px;
+            border-radius: 12px;
+            font-size: 10px;
+            color: #94a3b8;
+            pointer-events: none;
+            backdrop-filter: blur(6px);
+            z-index: 5;
+        }
+
+        /* 悬停探针 */
+        #inspector { position: absolute; bottom: 16px; left: 16px; background: rgba(22, 24, 27, 0.9); border: 1px solid #374151; border-radius: 6px; padding: 10px; min-width: 200px; font-size: 11px; pointer-events: none; backdrop-filter: blur(4px); box-shadow: 0 4px 12px rgba(0,0,0,0.4); z-index: 5; }
+        #inspector h4 { font-size: 12px; color: #60a5fa; margin-bottom: 4px; }
+        .inspector-row { display: flex; justify-content: space-between; margin-bottom: 3px; color: #9ca3af; }
+        .inspector-val { color: #f3f4f6; font-family: monospace; font-weight: 600; }
+
+        /* 右侧浮动悬浮挂载：规则卡片与色号聚焦 (下方完全透明透光) */
+        #sidebar-right {
+            position: absolute;
+            top: 12px;
+            right: 12px;
+            width: 380px;
+            max-height: calc(100vh - 24px);
+            display: flex;
+            flex-direction: column;
+            z-index: 20;
+            pointer-events: none;
+        }
+        #sidebar-right-header {
+            pointer-events: auto;
+            background: rgba(26, 28, 32, 0.94);
+            border: 1px solid #31353d;
+            border-radius: 6px;
+            padding: 8px 12px;
+            margin-bottom: 8px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            backdrop-filter: blur(8px);
+            box-shadow: 0 4px 14px rgba(0,0,0,0.45);
+        }
+        #sidebar-right-scroll {
+            pointer-events: none;
+            overflow-y: auto;
+            overflow-x: hidden;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            padding-right: 2px;
+        }
+        #rules-container { pointer-events: none; }
+        #rules-container > * { pointer-events: auto; }
+
+        /* 卡片与通道 */
+        .rule-card { background: rgba(24, 27, 32, 0.95); border: 1px solid #31353d; border-radius: 6px; padding: 8px; margin-bottom: 8px; transition: border-color 0.2s; backdrop-filter: blur(8px); box-shadow: 0 4px 16px rgba(0,0,0,0.5); }
+        .rule-card.highlight { border-color: #ec4899; box-shadow: 0 0 10px rgba(236, 72, 153, 0.5); }
+        .rule-card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; padding-bottom: 6px; border-bottom: 1px solid #2a2e37; }
+        .channel-block { background: #191c22; border: 1px solid #292d36; border-radius: 4px; padding: 6px; margin-top: 6px; position: relative; }
+        .channel-title { font-size: 11px; font-weight: 600; color: #60a5fa; margin-bottom: 4px; display: flex; justify-content: space-between; align-items: center; }
+    </style>
+</head>
+<body>
+
+    <!-- 1. 左侧面板：图层管理 / 导出 / 种子控制 -->
+    <div id="sidebar-left">
+        <div class="sidebar-header">
+            <span>图层与工程管理</span>
+            <span id="version-tag" style="font-size: 10px; color: #6b7280;">Ctrl+Z 撤回</span>
+        </div>
+
+        <div class="sidebar-scroll">
+            <div class="panel-box">
+                <div class="panel-title">
+                    <span>图层栈</span>
+                    <button id="btn-batch-png" class="btn-sm">导入 PNG</button>
+                </div>
+                <input type="file" id="batch-file-input" accept="image/png" multiple style="display: none;">
+                <div id="layers-list"></div>
+                <div class="form-row" style="margin-top: 6px;">
+                    <button id="btn-watch-all" class="btn-secondary" style="flex: 1;">🔥 监听重载</button>
+                    <button id="btn-restore-cache" class="btn-secondary" style="flex: 1;">⚡ 恢复缓存</button>
+                    <span id="watch-status" style="font-size: 10px; color: #9ca3af; text-align: right; flex: 0.6;">就绪</span>
+                </div>
+            </div>
+
+            <div class="panel-box">
+                <div class="panel-title">
+                    <span>导出与配置对接</span>
+                    <button id="btn-import-lua" class="btn-secondary btn-sm">导入 Lua</button>
+                    <input type="file" id="lua-file-input" accept=".lua" multiple style="display: none;">
+                </div>
+                <div class="form-row" style="background: #16181b; padding: 5px 8px; border-radius: 4px; border: 1px solid #2a2e37;">
+                    <span style="font-size: 10px; color: #9ca3af; font-weight: 600;">项:</span>
+                    <label style="display:flex; align-items:center; gap:3px; font-size:11px; cursor:pointer;">
+                        <input type="checkbox" id="exp-chk-png" checked> PNG
+                    </label>
+                    <label style="display:flex; align-items:center; gap:3px; font-size:11px; cursor:pointer;">
+                        <input type="checkbox" id="exp-chk-config" checked> Config
+                    </label>
+                    <label style="display:flex; align-items:center; gap:3px; font-size:11px; cursor:pointer;">
+                        <input type="checkbox" id="exp-chk-data"> Data
+                    </label>
+                </div>
+                <div class="form-row" style="margin-top: 6px;">
+                    <button id="btn-batch-export" style="flex: 1; padding: 6px 0; font-weight: 600; background: #2563eb;">
+                        📦 导出选中文件 (<span id="exp-selected-count">1</span> 个图层)
+                    </button>
+                </div>
+            </div>
+
+            <div class="panel-box">
+                <div class="panel-title">模拟与种子控制</div>
+                <div class="form-row">
+                    <input type="range" id="seed-slider" min="0" max="9999" value="12345" style="flex: 1;">
+                    <input type="number" id="seed-input" value="12345" style="width: 65px;">
+                    <button id="btn-random-seed" class="btn-secondary btn-sm">骰子</button>
+                </div>
+                <div class="form-row" style="margin-top: 6px; border-top: 1px dashed #31353d; padding-top: 6px;">
+                    <label style="display:flex; align-items:center; gap:6px; cursor:pointer;">
+                        <input type="checkbox" id="cb-simulate" checked>
+                        <span style="font-weight:600; color:#60a5fa; font-size:11px;">启用地图生成模拟</span>
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 2. 中间主画布视口 (全屏铺底) -->
+    <div id="viewport-container">
+        <!-- 悬浮顶栏工具条容器 -->
+        <div id="toolbar-container"></div>
+        <div id="floating-tool-indicator">当前: 画笔 (1px) | 右键快切 橡皮</div>
+
+        <canvas id="viewport-canvas"></canvas>
+
+        <div id="inspector">
+            <h4>悬停探针</h4>
+            <div class="inspector-row"><span>坐标:</span><span class="inspector-val" id="insp-coord">-</span></div>
+            <div class="inspector-row"><span>物理Tile:</span><span class="inspector-val" id="insp-tile">-</span></div>
+            <div class="inspector-row"><span>原始像素:</span><span class="inspector-val" id="insp-color">-</span></div>
+            <div class="inspector-row" style="flex-direction: column; gap: 2px; margin-top: 3px;">
+                <span>落地实体:</span>
+                <span class="inspector-val" id="insp-entities" style="font-size: 10px; color: #a7f3d0; word-break: break-all;">无</span>
+            </div>
+        </div>
+
+        <!-- 3. 右侧浮动悬浮挂载：规则卡片与色号聚焦 (下方完全透明透光) -->
+        <div id="sidebar-right">
+            <div id="sidebar-right-header">
+                <span id="rules-panel-title" style="font-size: 12px; font-weight: 600; color: #f1f5f9;">图层规则属性</span>
+                <div style="display: flex; gap: 6px; align-items: center;">
+                    <button id="btn-mode-focus" class="btn-sm btn-active" title="只展示当前选中的单张卡片，下方全透明透视画布">单卡聚焦</button>
+                    <button id="btn-mode-expand" class="btn-sm btn-secondary" title="纵向展开所有卡片">展开全部</button>
+                </div>
+            </div>
+            <div id="sidebar-right-scroll">
+                <div id="rules-container"></div>
+            </div>
+        </div>
+    </div>
+
+    <script type="module" src="./app.js"></script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+
+# IDE
+.vscode/
+.idea/
+
+# Logs & Temp
+*.log
+*.tmp
+cache/

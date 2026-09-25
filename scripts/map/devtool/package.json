@@ -1,0 +1,20 @@
+{
+  "name": "dst-map-simulator",
+  "version": "1.0.0",
+  "description": "Don't Starve Together Map Rules Visual Simulator",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build:exe": "electron-builder --win --dir"
+  },
+  "devDependencies": {
+    "electron": "^28.0.0",
+    "electron-builder": "^24.9.1"
+  },
+  "build": {
+    "appId": "com.dst.mapsimulator",
+    "win": {
+      "target": "nsis"
+    }
+  }
+}

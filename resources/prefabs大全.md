@@ -1,0 +1,2563 @@
+# DST Prefab Quick Reference
+
+- ???: `giftsurprise`
+- A Task Complete\nA Confession: `playbill_the_vault`
+- ASHLEY!: `ashley_big`
+- Abandoned Junk: `wagstaff_machinery`
+- Abandoned Tea Shop: `hermitcrab_teashop_abandoned`
+- Abigail: `abigail`
+- Abigail's Flower: `abigail_flower`
+- Above-Average Tree Trunk: `oceantree_pillar`
+- Acceleration Circuit: `wx78module_movespeed`
+- Accomploshrine: `accomplishment_shrine`
+- Accursed Trinket: `cursed_monkey_token`
+- Acid Rain: `acidrain`
+- Advanced Cachebox: `inspectaclesbox2`
+- Advert: `tacklesketch_scrapbook`
+- Ageless Watch: `pocketwatch_heal`
+- Air Unfreshener: `trinket_25`
+- Alarming Clock: `pocketwatch_weapon`
+- Alchemy Engine: `researchlab2`
+- Algae: `pond_algae`
+- Alto Shell Bell: `singingshell_octave4`
+- Amberosia: `dustmeringue`
+- Ammo Pouch: `slingshotammo_container`
+- Anchor: `anchor`
+- Anchor Figure: `chesspiece_anchor_builder`
+- Anchor Figure Sketch: `chesspiece_anchor_sketch`
+- Anchor Kit: `anchor_item`
+- Ancient Anchor: `lavaarena_keyhole`
+- Ancient Beacon: `atrium_light`
+- Ancient Brickwork: `turf_ruinstrim`
+- Ancient Chest: `sacred_chest`
+- Ancient Flooring: `turf_ruinsbrick`
+- Ancient Fuelweaver: `stalker_npc`
+- Ancient Fuelweaver Figure: `chesspiece_stalker_builder`
+- Ancient Gateway: `quagmire_portal`
+- Ancient Guard Post: `archive_security_desk`
+- Ancient Guard Tower: `vault_pillar_guard`
+- Ancient Guard Tower Figure: `chesspiece_vault_pillar_guard_builder`
+- Ancient Guard Tower Figure Sketch: `chesspiece_vault_pillar_guard_sketch`
+- Ancient Guardian: `minotaur`
+- Ancient Guardian Figure: `chesspiece_minotaur_builder`
+- Ancient Key: `quagmire_portal_key`
+- Ancient Kiln: `archive_cookpot`
+- Ancient Lunarune Stone: `archive_rune_statue`
+- Ancient Moon Statue: `archive_moon_statue`
+- Ancient Mural: `atrium_rubble`
+- Ancient Obelisk: `atrium_overgrowth`
+- Ancient Orchestrina: `archive_orchestrina_main`
+- Ancient Pseudoscience Station: `ancient_altar`
+- Ancient Remains: `ancient_husk`
+- Ancient Sanctum Stonework: `turf_vault`
+- Ancient Sentrypede: `archive_centipede`
+- Ancient Statue: `atrium_statue`
+- Ancient Stonework: `turf_archive`
+- Ancient Tilework: `turf_ruinstiles`
+- Ancient Tower: `vault_pillar_guard_dormant`
+- Anenemy: `trap_starfish`
+- Anenemy Trap: `dug_trap_starfish`
+- Animal Track: `animal_track`
+- Ant-Chovy: `antchovies`
+- Antchovy: `oceanfish_antchovy`
+- Antlion: `antlion`
+- Antlion Figure: `chesspiece_antlion_builder`
+- Apicultural Notes: `book_bees`
+- Appeasing Adornment: `winter_ornamentgorge`
+- Apple Cider: `winter_food7`
+- Applied Horticulture: `book_gardening`
+- Applied Silviculture: `book_silviculture`
+- Arboretum Experiment: `halloween_experiment_root`
+- Archaic Boat: `boat_ancient`
+- Archaic Boat Kit: `boat_ancient_item`
+- Archaic Plank: `walkingplank_ancient`
+- Archival Stone Wall: `wall_stone_2`
+- Archival Thulecite Wall: `wall_ruins_2`
+- Ardent Axe: `fumaroleaxe`
+- Armermry: `merm_armory`
+- Armored Bearger: `mutatedbearger`
+- Armored Bearger Figure: `chesspiece_bearger_mutated_builder`
+- Armored Bearger Figure Sketch: `chesspiece_bearger_mutated_sketch`
+- Art?: `decor_centerpiece`
+- Artificer's Mask: `mask_ancient_masonhat`
+- Ashes: `ash`
+- Ashes of %s: `ash_remains`
+- Ashley: `ashley_active`
+- Asparagazpacho: `gazpacho`
+- Asparagus: `asparagus`
+- Asparagus Fern: `farm_plant_asparagus`
+- Asparagus Seeds: `known_asparagus_seeds`
+- Asparagus Soup: `asparagussoup`
+- Astral Detector: `archive_resonator_item`
+- Astroggles: `moonstorm_goggleshat`
+- Astroggles Blueprint: `moonstorm_goggleshat_blueprint`
+- Auto-Grabber: `wx78_shadowdrone_harvester`
+- Auto-Mat-O-Chanic: `wagpunkbits_kit`
+- Axe: `axe`
+- Azure Feather: `feather_robin_winter`
+- Azure Quill Float: `oceanfishingbobber_robin_winter`
+- B.U.D.D.Y.: `w_radio`
+- BERNIE!: `bernie_big`
+- Baby Beefalo: `babybeefalo`
+- Baby Spider: `webber_spider_minion`
+- Baby Tentacle: `tentacle_pillar_arm`
+- Back Scratcher: `trinket_20`
+- Backpack: `backpack`
+- Backstep Watch: `pocketwatch_warp`
+- Backtrek Watch: `pocketwatch_recall`
+- Backup Chassis: `wx78_backupbody_inventory`
+- Bacon Wrapped Meat: `quagmire_food_062`
+- Bacon and Eggs: `baconeggs`
+- Bagel and Fish: `quagmire_food_047`
+- Ball and Cup: `trinket_7`
+- Balloon: `balloon`
+- Balloon Hat: `balloonhat`
+- Banana: `cave_banana`
+- Banana Bush: `dug_bananabush`
+- Banana Pop: `bananapop`
+- Banana Shake: `bananajuice`
+- Barbed Helm: `lavaarena_lightdamagerhat`
+- Baritone Shell Bell: `singingshell_octave3`
+- Barnacle Linguine: `barnaclinguine`
+- Barnacle Nigiri: `barnaclesushi`
+- Barnacle Pita: `barnaclepita`
+- Barnacles: `barnacle`
+- Basalt: `basalt`
+- Basalt Pillar: `basalt_pillar`
+- Basic Farm: `slow_farmplot`
+- Bat Bat: `batbat`
+- Bat Cave: `batcave`
+- Bat Decoration: `halloween_ornament_2`
+- Bath Bomb: `bathbomb`
+- Bath Bomb Blueprint: `bathbomb_blueprint`
+- Batilisk: `bat`
+- Batilisk Wing: `batwing`
+- Battle Call Canister: `battlesong_container`
+- Battle Helm: `wathgrithrhat`
+- Battle Paddle: `oar_monkey`
+- Battle Rönd: `wathgrithr_shield`
+- Battle Saddle: `saddle_wathgrithr`
+- Battle Spear: `spear_wathgrithr`
+- Battle Standard: `lavaarena_battlestandard`
+- Battlemaster Pugna: `lavaarena_boarlord`
+- Beach Toy: `antliontrinket`
+- Beanbooster Circuit: `wx78module_bee`
+- Beard Hair: `beardhair`
+- Beard Hair Rug: `turf_beard_rug`
+- Bearger: `bearger`
+- Bearger Figure: `chesspiece_bearger_builder`
+- Bearger Obstacle: `carnivalgame_golfprop_cutout6`
+- Beast of Hunger: `quagmire_altar_statue2`
+- Beaten Beater: `trinket_21`
+- Beckoning Hand: `charlie_hand`
+- Bee: `bee`
+- Bee Box: `beebox_hermit`
+- Bee Mine: `beemine`
+- Bee Queen: `beequeen`
+- Bee Queen Crown: `hivehat`
+- Bee Queen Figure: `chesspiece_beequeen_builder`
+- Beefalo: `beefalo`
+- Beefalo Bell: `beef_bell`
+- Beefalo Figure: `chesspiece_beefalo_builder`
+- Beefalo Figure Sketch: `chesspiece_beefalo_sketch`
+- Beefalo Gloom Bell: `shadow_beef_bell`
+- Beefalo Grooming Station: `beefalo_groomer`
+- Beefalo Hat: `beefalohat`
+- Beefalo Horn: `horn`
+- Beefalo Pillow Armor: `bodypillow_beefalowool`
+- Beefalo Shrine: `yotb_beefaloshrine`
+- Beefalo Stage: `yotb_post`
+- Beefalo Treats: `beefalotreat`
+- Beefalo Wool: `beefalowool`
+- Beefalo Wool Pillow: `handpillow_beefalowool`
+- Beefy Greens: `meatysalad`
+- Beehive: `beehive`
+- Beekeeper Hat: `beehat`
+- Beeswax: `beeswax`
+- Beginner Mini-Golf Kit: `carnivalgame_golfgame_kit_easy`
+- Bel Canto of Courage: `battlesong_sanityaura`
+- Beloved Crocodile Toy: `lost_toy_43`
+- Belt of Hunger: `armorslurper`
+- Benevolent Rabbit King: `rabbitking_passive`
+- Bent Spork: `trinket_17`
+- Bernie: `lavaarena_bernie`
+- Berries: `berries`
+- Berry Bush: `berrybush2`
+- Berry Tart: `quagmire_food_045`
+- Beta Report: `temp_beta_msg`
+- Bibingka: `bibingka`
+- Big Slimy Pit: `tentacle_pillar_hole`
+- Big Tentacle: `tentacle_garden`
+- Bigspook: `graveguard_ghost`
+- Biiigfoot: `bigfoot`
+- Billy: `quagmire_goatkid`
+- Binding Roots: `ivy_snare`
+- Binoculars: `trinket_38`
+- Bio Data: `scandata`
+- Bio Scanalyzer: `wx78_scanner_succeeded`
+- Birchnut: `acorn`
+- Birchnut Sapling: `acorn_sapling`
+- Birchnut Tree: `deciduous_root`
+- Birchnutter: `birchnutdrake`
+- Bird Trap: `birdtrap`
+- Birdcage: `birdcage`
+- Birdhouse Ball Drop: `carnivalgame_puckdrop_station`
+- Birdhouse Ball Drop Kit: `carnivalgame_puckdrop_kit`
+- Birds of the World: `book_birds`
+- Bishop Figure: `chesspiece_bishop_builder`
+- Bitty Baitfish: `oceanfish_small_3_inv`
+- Bizarre Tool: `wagstaff_tool_5_layman`
+- Black Bishop: `trinket_16`
+- Black Catfish: `oceanfish_medium_4_inv`
+- Black Flag: `blackflag`
+- Black Knight: `trinket_31`
+- Black Rook: `trinket_29`
+- Blacksmith Costume: `costume_blacksmith_body`
+- Blacksmith Mask: `mask_blacksmithhat`
+- Blacksmith's Edge: `lavaarena_heavyblade`
+- Blank Blueprint: `magic_blueprint`
+- Blocking Circuit: `wx78module_shielding`
+- Blocky Ruins: `ruins_cavein_obstacle`
+- Blood Shot: `mosquitomermsalve`
+- Bloomers: `hermithouse_laundry_shorts`
+- Bloomfin Tuna: `oceanfish_small_7_inv`
+- Blossomed Wreath: `lavaarena_healinggarlandhat`
+- Blow Dart: `blowdart_pipe`
+- Blue Cap: `blue_cap`
+- Blue Funcap: `blue_mushroomhat`
+- Blue Gem: `bluegem`
+- Blue Moonlens: `bluemooneye`
+- Blue Mosaic Flooring: `turf_mosaic_blue`
+- Blue Mushroom: `blue_mushroom`
+- Blue Mushtree: `mushtree_tall`
+- Blue Pop-up Blocker: `carnivalgame_golfprop_movingwall_blue`
+- Blue Seeds: `quagmire_seeds_1`
+- Blue Spore: `spore_tall`
+- Blueprint: `blueprint`
+- Boards: `boards`
+- Boarilla: `trails`
+- Boat: `burnable_locator_medium`
+- Boat Fragment: `boatfragment05`
+- Boat Kit: `boat_item`
+- Boat Patch: `boatpatch`
+- Bog Merm: `quagmire_merm`
+- Bone Armor: `armorskeleton`
+- Bone Bouillon: `bonesoup`
+- Bone Helm: `skeletonhat`
+- Bone Shards: `boneshard`
+- Bones: `houndbone`
+- Bony Slingshot Frame: `slingshot_frame_bone`
+- Bookcase: `bookstation`
+- Boomerang: `boomerang`
+- Boomshroom: `mushroombomb`
+- Booster Shot: `lifeinjector`
+- Bootleg Getaway: `bootleg`
+- Boulder: `rock_flintless_low`
+- Boulderbough: `tree_rock`
+- Boulderbough Sapling: `tree_rock_sapling`
+- Boulderbough Seed: `tree_rock_seed`
+- Bowl: `quagmire_food_bowl`
+- Box Thing: `teleportato_box`
+- Braised Eggplant: `eggplant_cooked`
+- Bramble Husk: `armor_bramble`
+- Bramble Trap: `trap_bramble`
+- Brambleshade Armor: `armor_lunarplant_husk`
+- Bread Pudding: `quagmire_food_043`
+- Breaded Cutlet: `quagmire_food_055`
+- Breakfast Skillet: `veggieomlet`
+- Breezy Vest: `trunkvest_summer`
+- Brew of Phobic Abatement: `halloweenpotion_bravery_small`
+- Brew of Phobic Abrogation: `halloweenpotion_bravery_large`
+- Briar: `hedgehound_bush`
+- Briar Wolf: `hedgehound`
+- Brick Flooring: `turf_cotl_brick`
+- Bright Boxer: `punchingbag_lunar`
+- Bright-Beaked Bird: `mutatedbird`
+- Bright-Eyed Frog: `lunarfrog`
+- Brightshade Armor: `armor_lunarplant`
+- Brightshade Bomb: `bomb_lunarplant`
+- Brightshade Helm: `lunarplanthat`
+- Brightshade Husk: `lunarplant_husk`
+- Brightshade Husk Rounds: `slingshotammo_lunarplanthusk`
+- Brightshade Repair Kit: `lunarplant_kit`
+- Brightshade Shoevel: `shovel_lunarplant`
+- Brightshade Smasher: `pickaxe_lunarplant`
+- Brightshade Staff: `staff_lunarplant`
+- Brightshade Sword: `sword_lunarplant`
+- Brightsmithy: `lunar_forge`
+- Brightsmithy Kit: `lunar_forge_kit`
+- Brilliant Mudslinger: `wurt_swampitem_lunar`
+- Brittle Seed Pods: `durian_seeds`
+- Broken Ancient Pseudoscience Station: `ancient_altar_broken`
+- Broken Carriage: `quagmire_rubble_carriage`
+- Broken Clockworks: `chessjunk3`
+- Broken Hairdryer: `trinket_46`
+- Broken Machinery: `monkeyisland_portal_debris`
+- Broken Relic: `ruins_rubble`
+- Broken Sanctum Relic: `vaultrelic_broken`
+- Broken Sanctum Waymark: `vault_teleporter_broken`
+- Broken Shell: `slurtle_shellpieces`
+- Broken Stake: `trinket_37`
+- Broken Terrarium: `trinket_44`
+- Broken-down Chest: `collapsedchest`
+- Broodling: `critter_dragonling_builder`
+- Broodling Spectator: `boatrace_spectator_dragonling`
+- Bruschetta: `quagmire_food_031`
+- Brush: `brush`
+- Bubble Pipe Carving: `chesspiece_pipe_builder`
+- Bucket-o-poop: `fertilizer`
+- Bug Net: `bugnet`
+- Bulbin: `critter_bulbin_builder`
+- Bulbous Lightbug: `lightflier`
+- Bulbous Seeds: `dragonfruit_seeds`
+- Bull Kelp: `bullkelp_plant`
+- Bull Kelp Stalk: `bullkelp_root`
+- Bunch o' Boards: `boards_bunch`
+- Bunch o' Stone: `cutstone_bunch`
+- Bundle of Thanks: `hermit_bundle`
+- Bundled Supplies: `bundle`
+- Bundling Wrap: `bundlewrap`
+- Bunny Puff: `manrabbit_tail`
+- Bunny Roll: `yotr_food1`
+- Bunny Stew: `bunnystew`
+- Bunnyman: `bunnyman`
+- Bunnyman Figure: `chesspiece_manrabbit_builder`
+- Bunnyman Figure Sketch: `chesspiece_manrabbit_sketch`
+- Bunnyman Shrine: `yotr_rabbitshrine`
+- Bunnyman Torch: `yotr_fightring_torch`
+- Burnt Food: `quagmire_food_burnt`
+- Burrow: `molehill`
+- Burrowing Horn: `rabbitkinghorn`
+- Bush Hat: `bushhat`
+- Butter: `butter`
+- Butter Muffin: `butterflymuffin`
+- Butterfly: `butterfly`
+- Butterfly Wings: `butterflywings`
+- Button: `carnivalgame_shooting_button`
+- Buzzard: `buzzard`
+- Cabbage Rolls: `cabbagerolls`
+- Cachebox: `inspectaclesbox`
+- Cactus: `cactus`
+- Cactus Flesh: `cactus_meat`
+- Cactus Flower: `cactus_flower`
+- Calibrated Perceiver: `wagstaff_tool_5`
+- California Roll: `californiaroll`
+- Camper's Tent: `portabletent`
+- Campfire: `campfire`
+- Canary: `canary`
+- Canary (Volatile): `canary_poisoned`
+- Candied Fish: `quagmire_food_028`
+- Candy: `quagmire_food_042`
+- Candy Apple: `halloweencandy_1`
+- Candy Bag: `candybag`
+- Candy Cane: `winter_food3`
+- Candy Corn: `halloweencandy_2`
+- Candy Lice: `halloweencandy_12`
+- Cannon: `boat_cannon`
+- Cannon Kit: `boat_cannon_kit`
+- Cannon Tower: `crabking_cannontower`
+- Cannonball: `cannonball_rock_item`
+- Canteen of Sanguine Mixture: `halloweenpotion_health_large`
+- Captain's Tricorn: `monkey_mediumhat`
+- Caramel Cube: `quagmire_food_066`
+- Cargo Hold: `boat_ancient_container`
+- Carpeted Flooring: `turf_carpetfloor`
+- Carrat: `carrat`
+- Carrat Figure: `chesspiece_carrat_builder`
+- Carrat Figure Sketch: `chesspiece_carrat_sketch`
+- Carrat Scale: `yotc_carrat_scale`
+- Carrat Scale Kit: `yotc_carrat_scale_item`
+- Carrat Shrine: `yotc_carratshrine`
+- Carrot: `carrat_planted`
+- Carrot Cake: `quagmire_food_023`
+- Carrot Obstacle: `carnivalgame_golfprop_cutout1`
+- Carrot Plant: `farm_plant_carrot`
+- Carrot Seeds: `known_carrot_seeds`
+- Carrot Soup: `quagmire_food_016`
+- Cartographer's Desk: `cartographydesk`
+- Carved Hornucopia: `chesspiece_hornucopia_builder`
+- Cat Cap: `catcoonhat`
+- Cat Tail: `coontail`
+- Catcoon: `catcoon`
+- Catcoon Candy: `halloweencandy_5`
+- Catcoon Figure: `chesspiece_catcoon_builder`
+- Catcoon Figure Sketch: `chesspiece_catcoon_sketch`
+- Catcoon Shrine: `yot_catcoonshrine`
+- Cave Banana Tree: `cave_banana_tree`
+- Cave Fumarole Turf: `turf_vent`
+- Cave Lichen: `lichen`
+- Cave Rock Turf: `turf_underrock`
+- Cave Spider: `spider_hider`
+- Cave Switcherdoodle: `mutator_hider`
+- Cawnival Sapling: `carnival_plaza_kit`
+- Cawnival Token: `carnival_gametoken`
+- Cawnival Tokens: `carnival_gametoken_multiple`
+- Cawnival Tree: `carnival_plaza`
+- Celestial Altar: `moon_altar`
+- Celestial Altar Base: `moon_altar_glass`
+- Celestial Altar Idol: `moon_altar_idol`
+- Celestial Altar Orb: `moon_altar_seed`
+- Celestial Champion: `alterguardian_phase3deadorb`
+- Celestial Champion Figure: `chesspiece_guardianphase3_builder`
+- Celestial Champion Figure Sketch: `chesspiece_guardianphase3_sketch`
+- Celestial Fissure: `moon_fissure`
+- Celestial Jewel: `lunar_seed`
+- Celestial Orb: `moonrockseed`
+- Celestial Portal: `multiplayer_portal_moonrock`
+- Celestial Revenant: `alterguardian_phase1_lunarrift`
+- Celestial Sanctum: `moon_altar_astral`
+- Celestial Sanctum Icon: `moon_altar_icon`
+- Celestial Sanctum Ward: `moon_altar_ward`
+- Celestial Scion: `alterguardian_phase4_lunarrift`
+- Celestial Scion Figure: `chesspiece_wagboss_lunar_builder`
+- Celestial Scion Figure Sketch: `chesspiece_wagboss_lunar_sketch`
+- Celestial Tribute: `moon_altar_cosmic`
+- Ceviche: `ceviche`
+- Champion Adornment: `winter_ornamentforge`
+- Charcoal: `charcoal`
+- Charged Elding Spear: `spear_wathgrithr_lightning_charged`
+- Charged Glassy Rock: `moonstorm_glass`
+- Charlie: `charlie_npc`
+- Charlie's Carrat: `carrat_ghostracer`
+- Charlie's Racer: `boatrace_primemate`
+- Charred Nostrils: `batnose_cooked`
+- Chasm: `vault_key_exit`
+- Checkered Flooring: `turf_checkerfloor`
+- Checkpoint: `yotc_carrat_race_checkpoint`
+- Checkpoint Kit: `yotc_carrat_race_checkpoint_item`
+- Cheeseburger: `quagmire_food_052`
+- Cheesecake: `quagmire_food_069`
+- Chef Pouch: `spicepack`
+- Cherished Toy Robot: `lost_toy_11`
+- Chessmaster Circuit: `wx78module_chess`
+- Chest: `treasurechest`
+- Chester: `chester`
+- Chili Flakes: `spice_chili`
+- Chilled Amulet: `blueamulet`
+- Chilled Lavae: `lavae_cocoon`
+- Chirpy Capelet: `carnival_vest_c`
+- Chirpy Cloak: `carnival_vest_b`
+- Chirpy Scarf: `carnival_vest_a`
+- Choco Pigs: `halloweencandy_11`
+- Chocolate Log Cake: `winter_food5`
+- Chorusbox Circuit: `wx78module_music`
+- Circuit Extractor: `wx78_moduleremover`
+- Clairvoyant Crown: `lavaarena_eyecirclethat`
+- Claw Anchor: `yotd_anchor`
+- Claw Anchor Kit: `yotd_anchor_item`
+- Claw Oar: `yotd_oar`
+- Clay Hound: `clayhound`
+- Clay Varg: `claywarg`
+- Clay Varg Figure Sketch: `chesspiece_claywarg_sketch`
+- Clean Sweeper: `reskin_tool`
+- Clear Minded Cadenza: `battlesong_sanitygain`
+- Clever Disguise: `mermhat`
+- Clipboard: `wagstaff_item_2`
+- Clockmaker's Tools: `pocketwatch_dismantler`
+- Clockwise Medium Spin Plate: `carnivalgame_golfprop_mediumspinner_cw`
+- Clockwise Small Spin Plate: `carnivalgame_golfprop_smallspinner_cw`
+- Clockwork Bishop: `bishop`
+- Clockwork Knight: `knight`
+- Clockwork Knight Shrine: `yoth_knightshrine`
+- Clockwork Rook: `rook`
+- Clout Snout: `pig_coin`
+- Clustered Seeds: `corn_seeds`
+- Coaching Whistle: `wolfgang_whistle`
+- Coals: `trap_fumarole`
+- Coat of Carrots: `armor_carrotlure`
+- Cobblestones: `turf_road`
+- Codex Umbra: `waxwelljournal`
+- Collapsed Storage Unit: `wx78_inventorycontainer`
+- Collected Dust: `refined_dust`
+- Combriner: `shellweaver`
+- Commander's Helm: `wathgrithr_improvedhat`
+- Common Cawnival Statuette: `carnivaldecor_figure_common`
+- Communal Kelp Dish: `offering_pot`
+- Compass: `compass`
+- Compost: `compost`
+- Compost Wrap: `compostwrap`
+- Composting Bin: `compostingbin`
+- Conceptual Scrubber: `wagstaff_tool_4`
+- Confetti Cannon: `carnivalcannon_confetti`
+- Confetti Cannon Kit: `carnivalcannon_confetti_kit`
+- Conspicuous Chest: `terrariumchest`
+- Construction Amulet: `greenamulet`
+- Cookbook: `cookbook`
+- Cooked Banana: `cave_banana_cooked`
+- Cooked Barnacles: `barnacle_cooked`
+- Cooked Batilisk Wing: `batwing_cooked`
+- Cooked Blue Cap: `blue_cap_cooked`
+- Cooked Cactus Flesh: `cactus_meat_cooked`
+- Cooked Crab Meat: `quagmire_crabmeat_cooked`
+- Cooked Eel: `eel_cooked`
+- Cooked Egg: `bird_egg_cooked`
+- Cooked Fig: `fig_cooked`
+- Cooked Fish: `fish_cooked`
+- Cooked Fish Morsel: `fishmeat_small_cooked`
+- Cooked Foliage: `quagmire_foliage_cooked`
+- Cooked Frog Legs: `froglegs_cooked`
+- Cooked Green Cap: `green_cap_cooked`
+- Cooked Heat Gland: `mitegland_cooked`
+- Cooked Kelp Fronds: `kelp_cooked`
+- Cooked Leafy Meat: `plantmeat_cooked`
+- Cooked Long Pig: `humanmeat_cooked`
+- Cooked Mandrake: `cookedmandrake`
+- Cooked Meat: `cookedmeat`
+- Cooked Meat Scraps: `quagmire_cookedsmallmeat`
+- Cooked Monster Meat: `cookedmonstermeat`
+- Cooked Moon Shroom: `moon_cap_cooked`
+- Cooked Morsel: `cookedsmallmeat`
+- Cooked Mushroom: `quagmire_mushrooms_cooked`
+- Cooked Nightberry: `ancientfruit_nightvision_cooked`
+- Cooked Red Cap: `red_cap_cooked`
+- Cooked Salmon: `quagmire_salmon_cooked`
+- Cooked Stone Fruit: `rock_avocado_fruit_ripe_cooked`
+- Cookie Crumbles: `crumbs`
+- Cookie Cutter: `cookiecutter`
+- Cookie Cutter Cap: `cookiecutterhat`
+- Cookie Cutter Shell: `cookiecuttershell`
+- Cookpot: `quagmire_pot_small`
+- Cookpot Kit: `quagmire_crate_pot_hanger`
+- Corn: `corn`
+- Corn Cod: `oceanfish_medium_5_inv`
+- Corn Obstacle: `carnivalgame_golfprop_cutout4`
+- Corn Seeds: `known_corn_seeds`
+- Corn Stalk: `farm_plant_corn`
+- Corny Slush: `carnivalfood_corntea`
+- Corvus Goodfeather: `carnival_host`
+- Counter Clockwise Medium Spin Plate: `carnivalgame_golfprop_mediumspinner_ccw`
+- Counter Clockwise Small Spin Plate: `carnivalgame_golfprop_smallspinner_ccw`
+- Course Wall: `carnivalgame_golf_shape`
+- Cozy Bunnyman: `cozy_bunnyman`
+- Crab Cake: `quagmire_food_059`
+- Crab Guard: `crabking_mob`
+- Crab King: `crabking`
+- Crab King Bumper: `boat_bumper_crabking`
+- Crab King Bumper Kit: `boat_bumper_crabking_kit`
+- Crab King Figure: `chesspiece_crabking_builder`
+- Crab King Figure Sketch: `chesspiece_crabking_sketch`
+- Crab Knight: `crabking_mob_knight`
+- Crab Meat: `quagmire_crabmeat`
+- Crab Ravioli: `quagmire_food_065`
+- Crab Roll: `quagmire_food_063`
+- Crab Trap: `quagmire_crabtrap`
+- Crabby Hermit: `hermitcrab`
+- Cracked Doll Mask: `mask_dollbrokenhat`
+- Cracked Pearl: `hermit_cracked_pearl`
+- Cracked Pillar: `daywalker_pillar`
+- Craftsmerm House: `mermhouse_crafted`
+- Crank Thing: `teleportato_crank`
+- Cranky Articulator: `vault_pillar_guard_piece_3`
+- Crater Turf Blueprint: `turf_meteor_blueprint`
+- Cratered Moonrock: `moonrockcrater`
+- Crawling Horror: `crawlinghorror`
+- Crawling Nightmare: `crawlingnightmare`
+- Cream of Mushroom Soup: `quagmire_food_049`
+- Creamy Fettuccine: `quagmire_food_053`
+- Creamy Fish: `quagmire_food_056`
+- Creamy Potato Purée: `mashedpotatoes`
+- Creepy Forest: `record_creepyforest`
+- Crimson Feather: `feather_robin`
+- Crimson Quill Float: `oceanfishingbobber_robin`
+- Crispy Skeleton: `scorched_skeleton`
+- Crock Pot: `cookpot`
+- Crocodile Toy: `trinket_43`
+- Crocommander: `snapper`
+- Crop: `plant_normal`
+- Croquette: `quagmire_food_013`
+- Crow: `crow`
+- Crow Decoration: `halloween_ornament_6`
+- Crow Kid: `carnival_crowkid`
+- Crumpled Package: `wetpouch`
+- Crustashine: `lightcrab`
+- Crystal Deerclops: `mutateddeerclops`
+- Crystal Deerclops Figure: `chesspiece_deerclops_mutated_builder`
+- Crystal Deerclops Figure Sketch: `chesspiece_deerclops_mutated_sketch`
+- Crystal Tiara: `lavaarena_rechargerhat`
+- Crystal-Crested Buzzard: `mutatedbuzzard_gestalt`
+- Cubic Zirconia Ball: `trinket_32`
+- Cuckoo Spinwheel: `carnivalgame_wheelspin_station`
+- Cuckoo Spinwheel Kit: `carnivalgame_wheelspin_kit`
+- Curry: `quagmire_food_037`
+- Cursed Rounds: `slingshotammo_thulecite`
+- Cursed Vexation: `ghostlyelixir_shadow`
+- Custom Mini-Golf Kit: `carnivalgame_golfgame_kit_diy`
+- Cut Grass: `cutgrass`
+- Cut Reeds: `cutreeds`
+- Cut Stone: `cutstone`
+- Cutless: `cutless`
+- D.R. Style: `record_drstyle`
+- DIY Royalty Kit: `mermthrone_construction`
+- Damaged Bishop: `bishop_nightmare`
+- Damaged Knight: `knight_nightmare`
+- Damaged Rook: `rook_nightmare`
+- Dandy Lionfish: `oceanfish_medium_3_inv`
+- Dangler Switcherdoodle: `mutator_dropper`
+- Dangling Depth Dweller: `spider_dropper`
+- Dangling Depth Dweller Decoration: `halloween_ornament_5`
+- Dapper Vest: `sweatervest`
+- Dappled Koi: `oceanfish_medium_6_inv`
+- Dark Lament: `battlesong_shadowaligned`
+- Dark Petal Tea: `hermitcrabtea_petals_evil`
+- Dark Petals: `petals_evil`
+- Dark Sword: `nightsword`
+- Dark Tatters: `voidcloth`
+- Dark Vestige: `charlieresidue`
+- Darkness: `darkness`
+- Darts: `blowdart_lava`
+- Dead Wobster: `wobster_sheller_dead`
+- Deadelgänger: `player_hosted_me`
+- Deadly Brightshade: `lunarthrall_plant`
+- Deadly Feast: `deadlyfeast`
+- Deciduous Turf: `turf_deciduous`
+- Deck Illuminator: `mastupgrade_lamp`
+- Deck Of Cards: `deck_of_cards`
+- Decked-Out Dragonfly Boat Kit: `dragonboat_pack`
+- Deconstruction Staff: `greenstaff`
+- Deep Bass: `oceanfish_medium_2_inv`
+- Deep Freeze Staff: `icestaff3`
+- Deeper: `cave_entrance_open_cave`
+- Deer Antler: `deer_antler`
+- Deerclops: `deerclops`
+- Deerclops Eyeball: `deerclops_eyeball`
+- Deerclops Figure: `chesspiece_deerclops_builder`
+- Deerclops Obstacle: `carnivalgame_golfprop_cutout7`
+- Defeated Celestial Champion: `alterguardian_phase3dead`
+- Delicious Wobster: `wobster_sheller_dead_cooked`
+- Demolished Marotter Den: `otterden_dead`
+- Den Decorating Set: `spiderden_bedazzler`
+- Depths Worm: `worm`
+- Depths Worm Shrine: `yots_snakeshrine`
+- Desdemona: `knight_yoth_death`
+- Desert Goggles: `deserthat`
+- Desert Stone: `townportaltalisman`
+- Desiccant Pouch: `desiccant`
+- Desiccant Sack: `desiccantboosted`
+- Dessicated Tentacle: `trinket_12`
+- Dev Tool: `devtool`
+- Dilapidated Cathedral: `quagmire_rubble_cathedral`
+- Dilapidated Chimney: `quagmire_rubble_chimney2`
+- Dilapidated Clocktower: `quagmire_rubble_clocktower`
+- Dilapidated Door: `quagmire_rubble_pubdoor`
+- Dilapidated House: `quagmire_rubble_house`
+- Dilapidated Roof: `quagmire_rubble_roof`
+- Directional Sign: `arrowsign_panel`
+- Directional Springboard: `carnivalgame_golfprop_spring_onetime`
+- Dirt Mound: `worm_dirt`
+- Dirt Turf: `turf_dirt`
+- Distilled Knowledge: `archive_lockbox`
+- Distilled Vengeance: `ghostlyelixir_retaliation`
+- Divining Rod: `diviningrod`
+- Divining Rod Holder: `diviningrodstart`
+- Dmitri: `pigelitefighter3`
+- Dock Kit: `dock_kit`
+- Dock Piling: `dock_woodposts_item`
+- Doll Costume: `costume_doll_body`
+- Doll Mask: `mask_dollhat`
+- Dolled-Up Beefalo Doll: `yotb_beefalo_doll_doll`
+- Dolled-Up Costume Pattern: `doll_blueprint`
+- Domesticated Beefalo: `beefalo_domestic`
+- Doohickey: `winona_machineparts_1`
+- Down Feather: `goose_feather`
+- Down Quill Float: `oceanfishingbobber_goose`
+- Dragon Fruit: `dragonfruit`
+- Dragon Fruit Seeds: `known_dragonfruit_seeds`
+- Dragon Fruit Vine: `farm_plant_dragonfruit`
+- Dragonfly: `dragonfly`
+- Dragonfly Boat: `dragonboat_body`
+- Dragonfly Boat Kit: `dragonboat_kit`
+- Dragonfly Boat Wheel: `yotd_steeringwheel`
+- Dragonfly Boat Wheel Kit: `yotd_steeringwheel_item`
+- Dragonfly Figure: `chesspiece_dragonfly_builder`
+- Dragonfly Light: `mastupgrade_lamp_yotd`
+- Dragonfly Light Kit: `mastupgrade_lamp_item_yotd`
+- Dragonfly Obstacle: `carnivalgame_golfprop_cutout9`
+- Dragonfly Saliva: `lavaspit`
+- Dragonfly Shrine: `yotd_dragonshrine`
+- Dragonfly Wing Mast: `mast_yotd`
+- Dragonfly Wing Mast Kit: `mast_yotd_item`
+- Dragonpie: `dragonpie`
+- Dram of Psychic Fortitude: `halloweenpotion_sanity_small`
+- Dread Mite: `fused_shadeling_bomb`
+- Dread Pebbles: `slingshotammo_dreadstone`
+- Dreaded Mudslinger: `wurt_swampitem_shadow`
+- Dreadstone: `dreadstone`
+- Dreadstone Armor: `armordreadstone`
+- Dreadstone Helm: `dreadstonehat`
+- Dreadstone Outcrop: `dreadstone_stack`
+- Dreadstone Pillar: `support_pillar_dreadstone`
+- Dreadstone Pillar Scaffold: `support_pillar_dreadstone_scaffold`
+- Dreadstone Pillar Wreckage: `support_pillar_dreadstone_broken`
+- Dreadstone Wall: `wall_dreadstone`
+- Dried Dark Petals: `petals_evil_dried`
+- Dried Fire Nettle Frond: `firenettles_dried`
+- Dried Foliage: `foliage_dried`
+- Dried Forget-Me-Lots: `forgetmelots_dried`
+- Dried Kelp Fronds: `kelp_dried`
+- Dried Lune Tree Blossom: `moon_tree_blossom_dried`
+- Dried Petals: `petals_dried`
+- Dried Succulent: `succulent_picked_dried`
+- Dried Tillweed: `tillweed_dried`
+- Driftwood: `driftwood_tree`
+- Driftwood Oar: `oar_driftwood`
+- Driftwood Piece: `driftwood_log`
+- Driftwood Rocker: `hermit_chair_rocking`
+- Drowning: `drowning`
+- Drumstick: `drumstick`
+- Dry Hot Spring: `hermithotspring_abandoned`
+- Drying Rack: `meatrack_hermit`
+- Dumbbell: `dumbbell`
+- Durian: `durian`
+- Durian Seeds: `known_durian_seeds`
+- Durian Vine: `farm_plant_durian`
+- Dusky Spinnerbait: `oceanfishinglure_spinner_green`
+- Dusky Spoon: `oceanfishinglure_spoon_green`
+- Dust Moth: `dustmoth`
+- Dwarf Star: `stafflight`
+- E.F.S.: `record_efs`
+- Eel: `eel`
+- Eets: `critter_eets_builder`
+- Egg: `bird_egg`
+- Egg Basket: `carnivalgame_memory_card`
+- Egg Of Terror: `eyeofterror_mini_grounded`
+- Egg Scramble: `carnivalgame_herding_station`
+- Egg Scramble Kit: `carnivalgame_herding_kit`
+- Eggplant: `eggplant`
+- Eggplant Seeds: `known_eggplant_seeds`
+- Eggplant Stalk: `farm_plant_eggplant`
+- Eggs in a Basket: `carnivalgame_memory_station`
+- Eggs in a Basket Kit: `carnivalgame_memory_kit`
+- Eight Treasure Mud Pie: `yotp_food2`
+- Elastispacer: `chestupgrade_stacksize`
+- Elding Spear: `spear_wathgrithr_lightning`
+- Electric Dart: `blowdart_yellow`
+- Electric Milk: `goatmilk`
+- Electrical Doodad: `transistor`
+- Electrification Circuit: `wx78module_taser`
+- Elytra's Mask: `mask_ancient_handmaidhat`
+- Embalming Spritz: `beeswax_spray`
+- Empty Bottle: `messagebottleempty`
+- Empty Elixir: `trinket_35`
+- Empty Frame: `decor_pictureframe`
+- Empty Waterfowl Can: `premiumwateringcan`
+- Empty Watering Can: `wateringcan`
+- End Table: `endtable`
+- Endothermic Fire: `coldfire`
+- Endothermic Fire Pit: `coldfirepit`
+- Endurance Gym: `yotc_carrat_gym_stamina`
+- Endurance Gym Kit: `yotc_carrat_gym_stamina_item`
+- Energetic Static: `moonstorm_static_nowag`
+- Enlightened Crown: `alterguardianhat`
+- Enlightened Lullaby: `battlesong_lunaraligned`
+- Enlightened Shard: `alterguardianhatshard`
+- Enlightened W.A.R.B.O.T.: `wagboss_robot_possessed`
+- Enlightening Snare: `alterguardian_phase3trap`
+- Eternal Fruitcake: `winter_food4`
+- Ethereal Ember: `willow_ember`
+- Evergreen: `evergreen`
+- Evergreen Sapling: `pinecone_sapling`
+- Evil Flower: `flower_evil`
+- Ewecus: `spat`
+- Ewelet: `critter_lamb_builder`
+- Expansive Storage Unit: `wx78_inventorycontainer_held`
+- Expert Mini-Golf Kit: `carnivalgame_golfgame_kit_hard`
+- Exploiterator: `wx78_shadowdrone_debuffer`
+- Extra Smelly Durian: `durian_cooked`
+- Extra-Adorable Lavae: `lavae_pet`
+- Eye Bone: `chester_eyebone`
+- Eye Mask: `eyemaskhat`
+- Eye Of Terror: `eyeofterror`
+- Eye Of Terror Figure: `chesspiece_eyeofterror_builder`
+- Eye Plant: `eyeplant`
+- Eyebrella: `eyebrellahat`
+- Faceless Pumpkin: `pumpkinhat`
+- Fake Kazoo: `trinket_2`
+- Fallounder: `oceanfish_small_6_inv`
+- Fan: `carnivalgame_golfprop_fan`
+- Fancy Spiralled Tubers: `potatotornado`
+- Fanged Bumper: `boat_bumper_yotd`
+- Fanged Bumper Kit: `boat_bumper_yotd_kit`
+- Fashion Goggles: `goggleshat`
+- Fashion Melon: `watermelonhat`
+- Faux Fangs: `trinket_36`
+- Favorite Spinning Top: `lost_toy_19`
+- Fearsome Pattern Scrap: `yotb_pattern_fragment_1`
+- Feather Hat: `featherhat`
+- Feather Pencil: `featherpencil`
+- Feathered Reed Tunic: `lavaarena_armorlightspeed`
+- Feathered Wreath: `lavaarena_feathercrownhat`
+- Feathery Canvas: `malbatross_feathered_weave`
+- Fencing Sword: `fence_rotator`
+- Fermented Growth Formula: `soil_amender_spoiled`
+- Fermenting Growth Formula: `soil_amender_stale`
+- Fermin: `knight_yoth_famine`
+- Fern: `quagmire_fern`
+- Fertilizzzer: `mosquitofertilizer`
+- Festive Bauble: `winter_ornament`
+- Festive Beefalo Doll: `yotb_beefalo_doll_festive`
+- Festive Costume Pattern: `festive_blueprint`
+- Festive Fish Dish: `festivefish`
+- Festive Light: `winter_ornamentlight`
+- Festive Pattern Scrap: `yotb_pattern_fragment_3`
+- Festive Tree Planter: `winter_treestand`
+- Fiery Pen: `firepen`
+- Fig: `fig`
+- Fig-Stuffed Trunk: `koalefig_trunk`
+- Figatoni: `figatoni`
+- Figgy Frogwich: `frognewton`
+- Figkabab: `figkabab`
+- Finish Line: `yotc_carrat_race_finish`
+- Finish Line Kit: `yotc_carrat_race_finish_item`
+- Fire: `houndfire`
+- Fire Ball: `emberlight`
+- Fire Dart: `blowdart_fire`
+- Fire Hound: `firehound`
+- Fire Nettle Fronds: `firenettles`
+- Fire Nettle Tea: `hermitcrabtea_firenettles`
+- Fire Nettles: `weed_firenettle`
+- Fire Pit: `firepit`
+- Fire Pump: `waterpump`
+- Fire Staff: `firestaff`
+- Firebell: `dumbbell_redgem`
+- Fireflies: `fireflies`
+- Fireproof Falsetto: `battlesong_fireresistance`
+- Fish: `fish`
+- Fish Burger: `quagmire_food_034`
+- Fish Cordon Bleu: `frogfishbowl`
+- Fish Food: `chum`
+- Fish Food Blueprint: `chum_blueprint`
+- Fish Heads on a Stick: `yotp_food3`
+- Fish Hook: `oceanfishingbobber_none`
+- Fish Morsel: `fishmeat_small`
+- Fish Pie: `quagmire_food_017`
+- Fish Scale-O-Matic: `trophyscale_fish`
+- Fish Steak: `fishmeat_cooked`
+- Fish Stew: `quagmire_food_005`
+- Fish Tacos: `fishtacos`
+- Fish and Chips: `quagmire_food_018`
+- Fishball Skewers: `quagmire_food_009`
+- Fishing Net: `fishingnet`
+- Fishsticks: `fishsticks`
+- Fishy Jerky: `fishmeat_dried`
+- Fist Full of Jam: `quagmire_food_021`
+- Flailing Slingshot Band: `slingshot_band_tentacle`
+- Flare: `miniflare`
+- Flash Freeze Staff: `icestaff2`
+- Flash of Brilliance: `slingshotammo_purebrilliance_debuff`
+- Flask of Sanguine Mixture: `halloweenpotion_health_small`
+- Fleshy Bulb: `lureplantbulb`
+- Flint: `flint`
+- Floating Lantern: `miniboatlantern`
+- Floral Shirt: `hawaiianshirt`
+- Florid Postern: `multiplayer_portal`
+- Flour: `quagmire_flour`
+- Flower: `flower`
+- Flower Headband: `lavaarena_healingflowerhat`
+- Flower Salad: `flowersalad`
+- Flowery Beefalo Doll: `yotb_beefalo_doll_nature`
+- Flowery Costume Pattern: `nature_blueprint`
+- Flowery Pillow: `handpillow_petals`
+- Flowery Pillow Armor: `bodypillow_petals`
+- Fluffy Seeds: `quagmire_seeds_2`
+- Flummoxing Flame: `vault_torch`
+- Flutter Strip: `bandage_butterflywings`
+- Foliage: `foliage`
+- Foliage Tea: `hermitcrabtea_foliage`
+- Fool Costume: `costume_fool_body`
+- Fool Mask: `mask_foolhat`
+- Football Helmet: `footballhat`
+- Forest Turf: `turf_forest`
+- Forge Portal: `lavaarena_spawner`
+- Forget-Me-Lots: `forgetmelots`
+- Forget-Me-Lots Tea: `hermitcrabtea_forgetmelots`
+- Forging Hammer: `hammer_mjolnir`
+- Formal Beefalo Doll: `yotb_beefalo_doll_formal`
+- Formal Costume Pattern: `formal_blueprint`
+- Formal Pattern Scrap: `yotb_pattern_fragment_2`
+- Fortuitous Rabbit: `rabbitking_lucky`
+- Fossil Cage: `fossilspike`
+- Fossil Fragments: `fossil_piece`
+- Fossil Spike: `fossilspike2`
+- Fountain: `quagmire_park_fountain`
+- Fountain of Knowledge: `archive_lockbox_dispencer`
+- Fragile Rose: `charlierose`
+- Framed Drawing: `decor_pictureframe_drawing`
+- Frayed Yarn: `trinket_22`
+- Frazzled Wires: `trinket_6`
+- Freeze Rounds: `slingshotammo_freeze`
+- Freezing: `cold`
+- Fresh Fruit Crepes: `freshfruitcrepes`
+- Freshwater Fish: `pondfish`
+- Freshwater Fishing Rod: `fishingrod`
+- Fried Drumstick: `drumstick_cooked`
+- Fried Tallbird Egg: `tallbirdegg_cooked`
+- Friend-O-Matic Portal: `migration_portal`
+- Friendly Fruit Fly: `friendlyfruitfly`
+- Friendly Fruit Fly Fruit: `fruitflyfruit`
+- Friendly Peeper: `critter_eyeofterror_builder`
+- Friendly Scarecrow: `scarecrow`
+- Frog: `frog`
+- Frog Legs: `froglegs`
+- Froggle Bunwich: `frogglebunwich`
+- Frostbitten Beefalo Doll: `yotb_beefalo_doll_ice`
+- Frostbitten Costume Pattern: `ice_blueprint`
+- Frostjaw: `sharkboi`
+- Frostjaw Figure: `chesspiece_sharkboi_builder`
+- Frostjaw Figure Sketch: `chesspiece_sharkboi_sketch`
+- Frozen Banana Daiquiri: `frozenbananadaiquiri`
+- Fruit Fly: `fruitfly`
+- Fruit Medley: `fruitmedley`
+- Fulcronial Selector: `wagpunk_lever`
+- Fumarole: `cave_vent_rock`
+- Funcap: `mushroomhat`
+- Fungal Turf: `turf_fungus_green`
+- Funky Tool: `wagstaff_tool_4_layman`
+- Fur Roll: `bedroll_furry`
+- Fur Tuft: `furtuft`
+- Fused Shadeling: `fused_shadeling`
+- Garden Detritus: `farm_soil_debris`
+- Garden Digamajig: `farm_plow_item`
+- Garden Hoe: `farm_hoe`
+- Gardeneer Hat: `plantregistryhat`
+- Garland: `flowerhat`
+- Garlic: `quagmire_garlic`
+- Garlic Bread: `quagmire_food_025`
+- Garlic Mashed Potatoes: `quagmire_food_024`
+- Garlic Plant: `farm_plant_garlic`
+- Garlic Powder: `spice_garlic`
+- Garlic Seeds: `known_garlic_seeds`
+- Gastrogain Circuit: `wx78module_maxhunger1`
+- Gears: `gears`
+- Gem Stand: `gemsocket`
+- Gembell: `dumbbell_gem`
+- Geode Fruit: `ancientfruit_gem`
+- Geothermite: `cave_vent_mite`
+- Gestalt: `gestalt_alterguardian_projectile`
+- Ghastly Experience: `ghostlyelixir_revive`
+- Ghost: `ghost`
+- Ghost Decoration: `halloween_ornament_1`
+- Ghost Pop: `halloweencandy_8`
+- Giant Asparagus: `asparagus_oversized`
+- Giant Carrots: `carrot_oversized`
+- Giant Corn: `corn_oversized`
+- Giant Dragon Fruit: `dragonfruit_oversized`
+- Giant Durian: `durian_oversized`
+- Giant Eggplant: `eggplant_oversized`
+- Giant Garlic: `garlic_oversized`
+- Giant Onion: `onion_oversized`
+- Giant Pepper: `pepper_oversized`
+- Giant Pomegranate: `pomegranate_oversized`
+- Giant Potato: `potato_oversized`
+- Giant Pumpkin: `pumpkin_oversized`
+- Giant Rotting Asparagus: `asparagus_oversized_rotten`
+- Giant Rotting Carrots: `carrot_oversized_rotten`
+- Giant Rotting Corn: `corn_oversized_rotten`
+- Giant Rotting Dragon Fruit: `dragonfruit_oversized_rotten`
+- Giant Rotting Durian: `durian_oversized_rotten`
+- Giant Rotting Eggplant: `eggplant_oversized_rotten`
+- Giant Rotting Garlic: `garlic_oversized_rotten`
+- Giant Rotting Onion: `onion_oversized_rotten`
+- Giant Rotting Pepper: `pepper_oversized_rotten`
+- Giant Rotting Pomegranate: `pomegranate_oversized_rotten`
+- Giant Rotting Potato: `potato_oversized_rotten`
+- Giant Rotting Pumpkin: `pumpkin_oversized_rotten`
+- Giant Rotting Toma Root: `tomato_oversized_rotten`
+- Giant Rotting Watermelon: `watermelon_oversized_rotten`
+- Giant Toma Root: `tomato_oversized`
+- Giant Watermelon: `watermelon_oversized`
+- Giant Whirlpool: `oceanwhirlbigportal`
+- Giblet: `critter_perdling_builder`
+- Gift: `gift`
+- Gift Wrap: `giftwrap`
+- Gigantic Beehive: `beequeenhivegrown`
+- Gilded Depths Worm: `yots_worm`
+- Gilded Depths Worm Figure: `chesspiece_yots_builder`
+- Gilded Depths Worm Figure Sketch: `chesspiece_yots_sketch`
+- Gilded Knight: `knight_yoth`
+- Gilded Knight Figure: `chesspiece_yoth_builder`
+- Gilded Knight Figure Sketch: `chesspiece_yoth_sketch`
+- Gilded Knight's Chest Plate: `armor_yoth_knight`
+- Gilded Knight's Helmet: `yoth_knighthat`
+- Gingerbread Cookie: `winter_food1`
+- Gingerbread Pig: `gingerdeadpig`
+- Gingerbread Pig House: `gingerbreadhouse`
+- Gingerbread Varg: `gingerbreadwarg`
+- Gizmo: `winona_machineparts_2`
+- Glass Castle: `glassblock`
+- Glass Cutter: `glasscutter`
+- Glass Cutter Blueprint: `glasscutter_blueprint`
+- Glass Spike: `glassspike`
+- Glassy Rock: `moonstorm_glass_defused`
+- Glitter Cannon: `carnivalcannon_sparkle`
+- Glitter Cannon Kit: `carnivalcannon_sparkle_kit`
+- Glomglom: `critter_glomling_builder`
+- Glommer: `glommer`
+- Glommer's Flower: `glommerflower`
+- Glommer's Goop: `glommerfuel`
+- Glommer's Statue: `statueglommer`
+- Glommer's Wings: `glommerwings`
+- Gloomerang: `voidcloth_boomerang`
+- Gloomthorn: `ancienttree_nightvision`
+- Gloomthorn Sapling: `ancienttree_nightvision_sapling_item`
+- Glossamer Saddle: `saddle_race`
+- Glove: `wagstaff_item_1`
+- Glove of Challenge: `yotr_token`
+- Glow Berry: `wormlight`
+- Glow Berry Mousse: `glowberrymousse`
+- Glowcap: `mushroom_light2`
+- Gnarwail: `gnarwail`
+- Gnarwail Horn: `gnarwail_horn`
+- Gnaw Worshipper: `quagmire_park_angel2`
+- Gnaw's Favor: `quagmire_coin4`
+- Gnome: `trinket_4`
+- Gnomette: `trinket_13`
+- Goat Milk: `quagmire_goatmilk`
+- Gobbler: `perd`
+- Gobbler Shrine: `perdshrine`
+- Gobbler Wobbler: `kitcoondecor1`
+- Gobbler Wobbler Kit: `kitcoondecor1_kit`
+- Gold Flooring: `turf_cotl_gold`
+- Gold Nugget: `goldnugget`
+- Gold Rounds: `slingshotammo_gold`
+- Golden Belt: `pig_token`
+- Golden Buoy: `boatrace_seastack`
+- Golden Buoy Kit: `boatrace_seastack_throwable_deploykit`
+- Golden Dumbbell: `dumbbell_golden`
+- Golden Koi: `oceanfish_medium_7_inv`
+- Golf Ball: `carnivalgame_golfball`
+- Good Gravy: `gravy`
+- Goop Canister: `trinket_41`
+- Goose: `moose2`
+- Goose Egg: `mooseegg2`
+- Goose Figure: `chesspiece_moosegoose_alt`
+- Goose Nest: `moosenest2`
+- Gord's Knot: `trinket_3`
+- Gourmet Salt Lick: `saltlick_improved`
+- Grainy Transmission: `wagstaff_npc_wagpunk_arena`
+- Gramophone: `phonograph`
+- Grand Forge Boarrior: `boarrior`
+- Grass: `depleted_grass`
+- Grass Gator: `grassgator`
+- Grass Gekko: `grassgekko`
+- Grass Raft: `boat_grass`
+- Grass Raft Kit: `boat_grass_item`
+- Grass Suit: `armorgrass`
+- Grass Tuft: `dug_grass`
+- Grass Turf: `turf_grass`
+- Grave: `mound`
+- Grazer: `lunar_grazer`
+- Great Depths Worm: `worm_boss`
+- Great Depths Worm Figure: `chesspiece_wormboss_builder`
+- Great Tree Root: `watertree_root`
+- Great Tree Trunk: `watertree_pillar`
+- Greater Gestalt: `largeguard_alterguardian_projectile`
+- Green Cap: `green_cap`
+- Green Funcap: `green_mushroomhat`
+- Green Gem: `greengem`
+- Green Moonlens: `greenmooneye`
+- Green Mushroom: `green_mushroom`
+- Green Mushtree: `mushtree_small`
+- Green Mystery Box: `carnivaldecor_figure_kit`
+- Green Spore: `spore_small`
+- Grey Mosaic Flooring: `turf_mosaic_grey`
+- Grill Kit: `quagmire_crate_grill_small`
+- Grilled Cheese: `quagmire_food_048`
+- Grilled Watermelon: `watermelon_cooked`
+- Grim Galette: `nightmarepie`
+- Grit Duster: `nonslipgrit`
+- Grit Grinder: `nonslipgritboosted`
+- Grommet Scriber: `wagstaff_tool_3`
+- Grooming Station Kit: `beefalo_groomer_item`
+- Growth Formula Starter: `soil_amender_fresh`
+- Grub: `carnivalgame_feedchicks_food`
+- Grumble Bee: `beeguard`
+- Guacamole: `guacamole`
+- Guano: `guano`
+- Guano Turf: `turf_cave`
+- Guard Pig: `pigguard`
+- Guard Tower: `vault_pillar_guard_crafted`
+- Guard Tower Core: `vault_pillar_guard_piece_1`
+- Guard Tower Kit: `vault_pillar_guard_constr_plans`
+- Guard Tower Site: `vault_pillar_guard_constr`
+- Guardian Shadow Tentacle: `bigshadowtentacle`
+- Guardian's Horn: `minotaurhorn`
+- Gummy Spider: `halloweencandy_4`
+- Gunpowder: `gunpowder`
+- Gyroscopic Transduction Core: `wagdrone_parts`
+- Halfwit's Masque: `mask_halfwithat`
+- Hallowed Night: `record_hallowednights`
+- Ham Bat: `hambat`
+- Ham Bat Obstacle: `carnivalgame_golfprop_cutout3`
+- Hamburger: `quagmire_food_033`
+- Hammer: `hammer`
+- Handy Remote: `winona_remote`
+- Hardened Rubber Bung: `trinket_8`
+- Hardened Slip Bobber: `oceanfishingbobber_oval`
+- Hardwood Hat: `woodcarvedhat`
+- Hardy Circuit: `wx78module_maxhealth`
+- Hare Ball: `hareball`
+- Harp Statue: `statueharp`
+- Hatching Tallbird Egg: `tallbirdegg_cracked`
+- Hay Wall: `wall_hay`
+- Headstone: `wendy_recipe_gravestone`
+- Healing Glop: `spider_healer_item`
+- Healing Salve: `healingsalve`
+- Health: `decrease_health`
+- Hearthsfire Crystals: `lavaarena_firebomb`
+- Heartrending Ballad: `battlesong_healthgain`
+- Heat Gland: `mitegland`
+- Heated Garden Hoe: `fumarole_farm_hoe`
+- Heavenly Eggnog: `winter_food9`
+- Heavy Weighted Lure: `oceanfishinglure_hermit_heavy`
+- Herald of Tenebrau: `shadowthrall_parasite_allegiance`
+- Hermit Home: `hermithouse`
+- Hermit Rehomer: `hermitcrab_relocation_kit`
+- Hibearnation Vest: `beargervest`
+- Hoe: `quagmire_hoe`
+- Hole: `toadstool_hole`
+- Holiday Cheer: `wintersfeastfuel`
+- Hollow Stump: `catcoonden`
+- Honey: `honey`
+- Honey Crystals: `spice_sugar`
+- Honey Ham: `honeyham`
+- Honey Nuggets: `honeynuggets`
+- Honey Patch: `beequeenhive`
+- Honey Poultice: `bandage`
+- Honeycomb: `honeycomb`
+- Horizon Expandinator: `scrap_monoclehat`
+- Horror Hound: `mutatedhound`
+- Horticulture, Abridged: `book_horticulture`
+- Horticulture, Expanded: `book_horticulture_upgraded`
+- Hostile Flare: `megaflare`
+- Hot Cocoa: `winter_food8`
+- Hot Dragon Chili Salad: `dragonchilisalad`
+- Hot Pumpkin: `pumpkin_cooked`
+- Hot Spring: `hermithotspring_constr`
+- Hotheaded Hammer: `fumarolehammer`
+- Hound: `houndcorpse`
+- Hound Figure: `chesspiece_clayhound_builder`
+- Hound Figure Sketch: `chesspiece_clayhound_sketch`
+- Hound Mound: `houndmound`
+- Hound's Tooth: `houndstooth`
+- Houndius Shootius: `eyeturret_item`
+- House Rubble: `quagmire_swampig_house_rubble`
+- Howlitzer: `houndstooth_blowpipe`
+- Hubbub for Grub: `carnivalgame_feedchicks_station`
+- Hubbub for Grub Kit: `carnivalgame_feedchicks_kit`
+- Humble Lamb Idol: `cotl_tabernacle_level1`
+- Hungry Crow: `carnivalgame_feedchicks_nest`
+- Hutch: `hutch`
+- Ice: `sharkboi_icespike`
+- Ice Barrier: `crabking_icewall`
+- Ice Box: `icebox`
+- Ice Bream: `oceanfish_medium_8_inv`
+- Ice Cream: `icecream`
+- Ice Crystaleyezer: `deerclopseyeball_sentryward`
+- Ice Crystaleyezer Kit: `deerclopseyeball_sentryward_kit`
+- Ice Cube: `icehat`
+- Ice Flingomatic: `firesuppressor`
+- Ice Hound: `icehound`
+- Ice Staff: `icestaff`
+- Icebell: `dumbbell_bluegem`
+- Icker: `gelblob`
+- Icker Jar: `gelblob_bottle`
+- Icker Preserve: `gelblob_storage`
+- Icker Preserve Kit: `gelblob_storage_kit`
+- Ickies: `slingshotammo_gelblob`
+- Ignatius: `pigelitefighter2`
+- Illumination Circuit: `wx78module_light`
+- Imitation Ancient Brickwork: `turf_ruinstrim_glow`
+- Imitation Ancient Flooring: `turf_ruinsbrick_glow`
+- Imitation Ancient Tilework: `turf_ruinstiles_glow`
+- Imitation Ruins Turf Blueprints: `blueprint_craftingset_ruinsglow_builder`
+- Immaculate Lamb Idol: `cotl_tabernacle_level3`
+- Imposing Claw: `crabking_claw`
+- Improved Farm: `fast_farmplot`
+- Improved Lamb Idol: `cotl_tabernacle_level2`
+- Inactive Celestial Tribute: `moon_altar_crown`
+- Incomplete Experiment: `moon_device_construction1`
+- Incomplete Experiment Blueprint: `moon_device_construction1_blueprint`
+- Incursive Gestalt: `lunarthrall_plant_gestalt`
+- Infernal Staff: `fireballstaff`
+- Infernal Swineclops: `beetletaur`
+- Inflatable Vest: `balloonvest`
+- Infused Moon Shard: `moonglass_charged`
+- Inimical Gestalt: `gestalt_guard_evolved`
+- Ink Blight: `shadowthrall_mouth`
+- Inner Sanctum Barrier: `vault_decon_door`
+- Inspectacles: `inspectacleshat`
+- Insulated Pack: `icepack`
+- Inthralled Corpse: `player_hosted`
+- Inviting Formation: `moon_altar_rock_seed`
+- Ipecaca Poisoning: `ipecacsyrup_buff`
+- Iridescent Gem: `opalpreciousgem`
+- Iron Fence: `quagmire_parkspike`
+- Iron Gate: `quagmire_park_gate`
+- Iron Key: `quagmire_key_park`
+- Ironclad Beefalo Doll: `yotb_beefalo_doll_robot`
+- Ironclad Costume Pattern: `robot_blueprint`
+- Ivy: `quagmire_altar_ivy`
+- JIMBO: `balatro_machine`
+- Jagged Grand Armor: `lavaarena_armor_hpdamager`
+- Jagged Wood Armor: `lavaarena_armormediumdamager`
+- Jelly Roll: `quagmire_food_022`
+- Jelly Salad: `leafymeatsouffle`
+- Jelly Sandwich: `quagmire_food_004`
+- Jelly Worm: `halloweencandy_9`
+- Jellybeans: `jellybean`
+- Jerky: `meat_dried`
+- Jet Feather: `feather_crow`
+- Jet Quill Float: `oceanfishingbobber_crow`
+- Jitters: `shadowthrall_hands_allegiance`
+- Joust-a-Dash: `yoth_lance`
+- Jubilantern Post: `yots_lantern_post`
+- Jubilantern Post Kit: `yots_lantern_post_item`
+- Judge's Booth: `yotb_stage`
+- Juicy Berries: `berries_juicy`
+- Juicy Berry Bush: `berrybush_juicy`
+- Junk Pile: `junk_pile`
+- Junky Fence: `fence_junk`
+- Kablooies: `slingshotammo_gunpowder`
+- Kabobs: `kabobs`
+- Kelp Bumper: `boat_bumper_kelp`
+- Kelp Bumper Kit: `boat_bumper_kelp_kit`
+- Kelp Fronds: `kelp`
+- Kelp Patch: `boatpatch_kelp`
+- Kelp-Stuffed Pillow: `handpillow_kelp`
+- Kelpy Pillow Armor: `bodypillow_kelp`
+- Key: `quagmire_key`
+- Keystone: `vault_key`
+- Killer Bee: `killerbee`
+- Killer Bee Hive: `wasphive`
+- Kinetoclasmic Field Expandinator: `wagpunk_cagewall`
+- King Costume: `costume_king_body`
+- King Mask: `mask_kinghat`
+- King of the Merms: `mermking`
+- Kingly Figure: `chesspiece_formal_builder`
+- Kit Collar: `kitcoon_nametag`
+- Kit Teaser: `kitcoondecor2`
+- Kit Teaser Kit: `kitcoondecor2_kit`
+- Kitcoon: `kitcoon_yot`
+- Kitcoon Figure: `chesspiece_kitcoon_builder`
+- Kitcoon Figure Sketch: `chesspiece_kitcoon_sketch`
+- Kitcoon Nursery: `kitcoonden`
+- Kitcoon Nursery Kit: `kitcoonden_kit`
+- Kitschy Beaver Idol: `wereitem_beaver`
+- Kitschy Goose Idol: `wereitem_goose`
+- Kitschy Moose Idol: `wereitem_moose`
+- Kittykit: `critter_kitten_builder`
+- Klaus: `klaus`
+- Klaus Figure: `chesspiece_klaus_builder`
+- Knabsack: `wortox_nabbag`
+- Knight Figure: `chesspiece_knight_builder`
+- Knobbly Tree: `oceantree`
+- Knobbly Tree Nut: `oceantreenut`
+- Koalefant: `koalefant_winter`
+- Koalefant Carcass: `koalefant_carcass`
+- Koalefant Trunk: `trunk_summer`
+- Koalefant Trunk Steak: `trunk_cooked`
+- Krampus: `krampus`
+- Krampus Sack: `krampus_sack`
+- Lake: `oasislake`
+- Lantern: `lantern`
+- Large Casserole Dish: `quagmire_casseroledish`
+- Large Cookpot: `quagmire_pot`
+- Large Drying Rack: `meatrack_hermit_multi`
+- Large Grill: `quagmire_grill_item`
+- Large Grill Kit: `quagmire_crate_grill`
+- Large Ornate Chest: `minotaurchest`
+- Large Snowball: `snowball_large`
+- Lasagna: `quagmire_food_039`
+- Latkes: `latkes`
+- Lava Pepper: `halloweencandy_14`
+- Lava Pit: `rock_light`
+- Lavae: `lavae`
+- Lavae Egg: `lavae_egg_cracked`
+- Lavae Tooth: `lavae_tooth`
+- Leafy Meat: `plantmeat`
+- Leafy Meatloaf: `leafloaf`
+- Leak: `boat_leak`
+- Leaky Shack: `mermhouse`
+- Leaky Teacup: `trinket_14`
+- Lesser Glow Berry: `wormlight_lesser`
+- Lever: `vault_crawler_lever`
+- Lichen: `cutlichen`
+- Life Giving Amulet: `amulet`
+- Light Bulb: `lightbulb`
+- Light Catcher: `carnivaldecor_banner`
+- Light Catcher Kit: `carnivaldecor_banner_kit`
+- Light Flower: `flower_cave`
+- Lightning: `lightning`
+- Lightning Conductor: `mastupgrade_lightningrod`
+- Lightning Rod: `lightning_rod`
+- Lil' Itchy: `mosquitomusk`
+- Live Eel: `pondeel`
+- Living Log: `livinglog`
+- Living Staff: `healingstaff`
+- Loaf of Bread: `quagmire_food_001`
+- Lobster Bisque: `lobsterbisque`
+- Lobster Dinner: `lobsterdinner`
+- Locked Iron Gate: `quagmire_park_gate_locked`
+- Locked Safe: `quagmire_safe_locked`
+- Log: `log`
+- Log Suit: `armorwood`
+- Lone Glove: `trinket_39`
+- Long Pig: `humanmeat`
+- Long Pig Jerky: `humanmeat_dried`
+- Loot Stash: `klaus_sack`
+- Lord of the Fruit Flies: `lordfruitfly`
+- Lost Marbles: `lost_toy_1`
+- Lost Scrapbook Page: `scrapbook_page`
+- Loyal Merm Guard: `mermguard`
+- Lucky Beast Beefalo Doll: `yotb_beefalo_doll_beast`
+- Lucky Beast Body: `dragonbodyhat`
+- Lucky Beast Costume Pattern: `beast_blueprint`
+- Lucky Beast Head: `dragonheadhat`
+- Lucky Beast Tail: `dragontailhat`
+- Lucky Cat Jar: `trinket_24`
+- Lucky Fan: `perdfan`
+- Lucky Gold Nugget: `lucky_goldnugget`
+- Lucky Horseshoe: `horseshoe`
+- Lucky Whistle: `houndwhistle`
+- Lucy the Axe: `lucy`
+- Luminous Wrath: `ghostlyelixir_lunar`
+- Lumpy Evergreen: `evergreen_sparse`
+- Lumpy Sapling: `lumpy_sapling`
+- Lumpy Seeds: `pepper_seeds`
+- Lunaform Burst: `lunarrift_terraformer_explosion`
+- Lunar Essence Extractor: `alterguardian_contained`
+- Lunar Experiment: `halloween_experiment_moon`
+- Lunar Funcap: `moon_mushroomhat`
+- Lunar Grimoire: `book_moon`
+- Lunar Mushtree: `mushtree_moon`
+- Lunar Siphonator: `moon_device`
+- Lunar Spore: `spore_moon`
+- Lunar Wobster: `wobster_moonglass`
+- Lune Tree: `moon_tree`
+- Lune Tree Blossom: `moon_tree_blossom`
+- Lune Tree Blossom Tea: `hermitcrabtea_moon_tree_blossom`
+- Lune Tree Sapling: `moonbutterfly_sapling`
+- Lureplant: `lureplant`
+- Lurking Nightmare: `ruinsnightmare`
+- Lush Carpet: `turf_carpetfloor2`
+- Lustrous Socket: `vault_crawler_socket`
+- Lustrous Weevil: `vault_crawler`
+- Lutefisk: `lutefisk`
+- Lux Aeterna: `book_light`
+- Lux Aeterna Redux: `book_light_upgraded`
+- Luxury Axe: `goldenaxe`
+- Luxury Fan: `featherfan`
+- Lying Robot: `trinket_11`
+- MacTusk: `walrus`
+- Macaroni and Cheese: `quagmire_food_046`
+- Mad Scientist Lab: `madscience_lab`
+- Magician's Chest: `magician_chest`
+- Magician's Top Hat: `tophat_magician`
+- Magiluminescence: `yellowamulet`
+- Magma: `lava_pond`
+- Magma Golem: `lavaarena_elemental`
+- Magnificent Adornment: `winter_ornamentboss`
+- Malbatross: `malbatross`
+- Malbatross Bill: `malbatross_beak`
+- Malbatross Feather: `malbatross_feather`
+- Malbatross Figure: `chesspiece_malbatross_builder`
+- Malbatross Figure Sketch: `chesspiece_malbatross_sketch`
+- Malbatross Quill Float: `oceanfishingbobber_malbatross`
+- Mandrake: `mandrake`
+- Mandrake Soup: `mandrakesoup`
+- Manicotti: `quagmire_food_051`
+- Mannequin: `sewing_mannequin`
+- Manure: `poop`
+- Map Scroll: `mapscroll`
+- Map of Totally Uninhabited Island: `mapscroll_tricker`
+- Marbell: `dumbbell_marble`
+- Marble: `marble`
+- Marble Bean: `marblebean`
+- Marble Pillar: `marblepillar`
+- Marble Sculpture: `sculpture_rookbody`
+- Marble Shrub: `marbleshrub`
+- Marble Sprout: `marblebean_sapling`
+- Marble Suit: `armormarble`
+- Marble Tree: `marbletree`
+- Marbles: `slingshotammo_marble`
+- Marotter: `otter`
+- Marotter Den: `otterden`
+- Marotter Raft: `boat_otterden`
+- Marsh Turf: `turf_marsh`
+- Masonry Oven: `wintersfeastoven`
+- Mast: `mast`
+- Mast Kit: `mast_item`
+- Maximum Health: `half_health`
+- Maximum Sanity: `half_sanity`
+- Maxwell: `waxwell`
+- Maxwell Statue: `statuemaxwell`
+- Maxwell's Door: `adventure_portal`
+- Maxwell's Head: `maxwellhead`
+- Maxwell's Light: `maxwelllight`
+- Maxwell's Mosquito Trap: `beemine_maxwell`
+- Maxwell's Phonograph: `maxwellphonograph`
+- Maxwell's Tooth Trap: `trap_teeth_maxwell`
+- Mealing Stone: `quagmire_mealingstone`
+- Meat: `meat`
+- Meat Effigy: `resurrectionstatue`
+- Meat Pie: `quagmire_food_019`
+- Meat Scraps: `quagmire_smallmeat`
+- Meat Skewers: `quagmire_food_011`
+- Meat Stew: `quagmire_food_032`
+- Meat Wellington: `quagmire_food_064`
+- Meatballs: `quagmire_food_010`
+- Meatloaf: `quagmire_food_015`
+- Meaty Stew: `bonestew`
+- Mega Blight: `shadowthrall_centipede`
+- Melonsicle: `watermelonicle`
+- Melted Iceberg: `iceberg_melted`
+- Melted Mini Glacier: `rock_ice_melted`
+- Melty Marbles: `trinket_1`
+- Merm: `merm`
+- Merm Flort-ifications: `mermwatchtower`
+- Merm Head: `mermhead`
+- Merry Berrysauce: `berrysauce`
+- Message in a Bottle: `messagebottle`
+- Metal Potato Thing: `teleportato_potato`
+- Meteor: `lavaarena_meteor`
+- Miasma: `miasma`
+- Midsummer Night Light: `carnivaldecor_lamp`
+- Midsummer Night Light Kit: `carnivaldecor_lamp_kit`
+- Mighty Gym: `mighty_gym`
+- Milkmade Hat: `batnosehat`
+- Milky Whites: `milkywhites`
+- Mimicreep: `itemmimic_revealed`
+- Miner Hat: `minerhat`
+- Mini Ferris Wheel: `carnivaldecor_eggride1`
+- Mini Ferris Wheel Kit: `carnivaldecor_eggride1_kit`
+- Mini Glacier: `rock_ice`
+- Mini Iceberg: `iceberg`
+- Mini Pendulum Ride: `carnivaldecor_eggride3`
+- Mini Pendulum Ride Kit: `carnivaldecor_eggride3_kit`
+- Mini Rollercoaster: `carnivaldecor_eggride6`
+- Mini Rollercoaster Kit: `carnivaldecor_eggride6_kit`
+- Mini Sign: `minisign_item`
+- Mini Spinning Eggcups: `carnivaldecor_eggride5`
+- Mini Spinning Eggcups Kit: `carnivaldecor_eggride5_kit`
+- Mini Swing Carousel: `carnivaldecor_eggride2`
+- Mini Swing Carousel Kit: `carnivaldecor_eggride2_kit`
+- Mini Tower Drop: `carnivaldecor_eggride4`
+- Mini Tower Drop Kit: `carnivaldecor_eggride4_kit`
+- Mini Worm Hole: `carnivalgame_golfprop_wormhole`
+- Mini-Golf Ball Dropper: `carnivalgame_golf_tee`
+- Mini-Golf Ball Dropper Kit: `carnivalgame_golf_tee_kit`
+- Mini-Golf Boundary Fence: `carnivalgame_golfprop_fence`
+- Mini-Golf Flaghole: `carnivalgame_golf_hole`
+- Mini-Golf Flaghole Kit: `carnivalgame_golf_hole_kit`
+- Miniature Tree: `carnivaldecor_plant`
+- Miniature Tree Kit: `carnivaldecor_plant_kit`
+- Minor Gestalt: `alterguardianhat_projectile`
+- Mirror Costume: `costume_mirror_body`
+- Mirror Mask: `mask_mirrorhat`
+- Misery Boomshroom: `mushroombomb_dark`
+- Misery Sporecap: `mushroomsprout_dark`
+- Misery Toadstool: `toadstool_cap_dark`
+- Mismatched Buttons: `trinket_9`
+- Misplaced Toy Cobra: `lost_toy_42`
+- Misshapen Bird: `bird_mutant_spitter`
+- Missing Teeth: `lost_toy_10`
+- Mockingbird: `charlie_heckler`
+- Moggles: `molehat`
+- Moleworm: `mole`
+- Molten Darts: `blowdart_lava2`
+- Monkey Bar: `monkeypillar`
+- Monkey Hut: `monkeyhut`
+- Monkey Paw: `trinket_34`
+- Monkeytails: `dug_monkeytail`
+- Monster Jerky: `monstermeat_dried`
+- Monster Lasagna: `monsterlasagna`
+- Monster Meat: `monstermeat`
+- Monster Tartare: `monstertartare`
+- Moon Axe Blueprint: `moonglassaxe_blueprint`
+- Moon Cake: `yotr_food2`
+- Moon Caller's Staff: `opalstaff`
+- Moon Crater Turf: `turf_meteor`
+- Moon Dial: `moondial`
+- Moon Glass: `moonglass_rock`
+- Moon Glass Axe: `moonglassaxe`
+- Moon Glass Mound: `moonglass_wobster_den`
+- Moon Glass Saw Blade: `carpentry_blade_moonglass`
+- Moon Jelly: `yotr_food3`
+- Moon Moth: `moonbutterfly`
+- Moon Moth Figure: `chesspiece_butterfly_builder`
+- Moon Moth Figure Sketch: `chesspiece_butterfly_sketch`
+- Moon Moth Sketch: `butterfly_sketch`
+- Moon Moth Wings: `moonbutterflywings`
+- Moon Quay Beach Turf: `turf_monkey_ground`
+- Moon Quay Pirate Banner: `pirate_flag_pole`
+- Moon Rock: `moonrocknugget`
+- Moon Rock Idol: `moonrockidol`
+- Moon Rock Wall: `wall_moonrock`
+- Moon Rubble: `moonrock_pieces`
+- Moon Shard: `moonglass`
+- Moon Shroom: `moon_cap`
+- Moon Stone: `moonbase`
+- Moonblind Crow: `bird_mutant`
+- Moonglass Spike: `alterguardian_phase2spike`
+- Moongleam: `moonstorm_spark`
+- Moonshots: `slingshotammo_moonglass`
+- Moose: `moose1`
+- Moose Egg: `mooseegg1`
+- Moose Figure: `chesspiece_moosegoose`
+- Moose Nest: `moosenest1`
+- Moose/Goose Figure: `chesspiece_moosegoose_builder`
+- Moqueca: `moqueca`
+- Morning Star: `nightstick`
+- Morsel: `smallmeat`
+- Mosling: `mossling`
+- Mosquito: `mosquito`
+- Mosquito Sack: `mosquitosack`
+- Mossy Vine: `oceanvine`
+- Mother's Favorite Teacup: `lost_toy_14`
+- Mothling: `critter_lunarmothling_builder`
+- Mourning Glory: `ghostflower`
+- Mud Turf: `turf_mud`
+- Mudfish: `oceanfish_medium_1_inv`
+- Mulled Punch: `mulleddrink`
+- Mumsy: `quagmire_goatmum`
+- Mush Gnome: `mushgnome`
+- Mushlight: `mushroom_light`
+- Mushroom: `quagmire_mushrooms`
+- Mushroom Burger: `quagmire_food_035`
+- Mushroom Obstacle: `carnivalgame_golfprop_cutout5`
+- Mushroom Planter: `mushroom_farm`
+- Mushy Cake: `shroomcake`
+- Mutated Fungal Turf: `turf_fungus_moon`
+- Mutated Merm: `merm_lunar`
+- Mutated Merm Guard: `mermguard_lunar`
+- My Knights Four and I\nA Stage Play: `playbill_the_princess_yoth`
+- Mysterious Energy: `moon_altar_link`
+- Mysterious Plant: `worm_plant`
+- Naked Mole Bat: `molebat`
+- Naked Mole Bat Burrow: `molebathill`
+- Naked Nostrils: `batnose`
+- Napsack: `sleepbomb`
+- Nautopilot: `boat_magnet`
+- Nautopilot Beacon: `boat_magnet_beacon`
+- Nautopilot Kit: `boat_magnet_kit`
+- Navigation Gym: `yotc_carrat_gym_direction`
+- Navigation Gym Kit: `yotc_carrat_gym_direction_item`
+- Nearly Completed Experiment: `moon_device_construction2`
+- Needlenosed Squirt: `oceanfish_small_2_inv`
+- Nest Defender: `carnivalgame_shooting_button_off`
+- Nest Defender Kit: `carnivalgame_shooting_kit`
+- Night Armor: `armor_sanity`
+- Night Light: `nightlight`
+- Nightberry: `ancientfruit_nightvision`
+- Nightcap: `nightcaphat`
+- Nightflyer Spinnerbait: `oceanfishinglure_spinner_blue`
+- Nightflyer Spoon: `oceanfishinglure_spoon_blue`
+- Nightmare Amulet: `purpleamulet`
+- Nightmare Fuel: `nightmarefuel`
+- Nightmare Light: `nightmarelight`
+- Nightmare Lock: `maxwelllock`
+- Nightmare Rampart: `nightmaregrowth`
+- Nightmare Saddle: `saddle_shadow`
+- Nightmare Throne: `maxwellthrone`
+- Nightmare Werepig: `daywalker`
+- Nightmare Werepig Figure: `chesspiece_daywalker_builder`
+- Nightmare Werepig Figure Sketch: `chesspiece_daywalker_sketch`
+- Nightmarebeak: `nightmarebeak`
+- Nightshade Nostrum: `ghostlyelixir_attack`
+- Nitre: `nitre`
+- Nitre Formation: `nitre_formation`
+- No-Eyed Deer: `deer_gemmed`
+- Not-So-Candy Corn: `halloweencandy_3`
+- Notional Fabricator: `wagpunk_workstation`
+- Nox Helm: `lavaarena_strongdamagerhat`
+- Nucleation Fluid: `coolant`
+- Nurse Spider: `spider_healer`
+- Nurse Switcherdoodle: `mutator_healer`
+- Nutribrick: `wx78_foodbrick`
+- Oar: `oar`
+- Obelisk: `sanityrock`
+- Oblong Seeds: `quagmire_seeds_6`
+- Ocean Debris: `oceanfishableflotsam`
+- Ocean Detritus: `oceanwhirlbigportalexit`
+- Ocean Trawler: `ocean_trawler`
+- Ocean Trawler Kit: `ocean_trawler_kit`
+- Ocuvigil: `sentryward`
+- Odd Beefalo: `wanderingtrader`
+- Odd Radio: `trinket_45`
+- Odd Skeleton: `fossil_stalker`
+- Odd Tool: `wagstaff_tool_1_layman`
+- Old Beefalo: `quagmire_beefalo`
+- Old Bell: `bell`
+- Old Coin: `quagmire_coin1`
+- On Tentacles: `book_tentacles`
+- One-man Band: `onemanband`
+- Onion: `quagmire_onion`
+- Onion Plant: `farm_plant_onion`
+- Onion Seeds: `known_onion_seeds`
+- Onion Soup: `quagmire_food_054`
+- Optoelectronic Circuit: `wx78module_nightvision`
+- Opulent Pickaxe: `goldenpickaxe`
+- Orange Gem: `orangegem`
+- Orange Moonlens: `orangemooneye`
+- Ornate Chest: `chest_mimic`
+- Ornate Pedestal: `archive_switch`
+- Ornery Chest: `chest_mimic_revealed`
+- Otherworldly Jawbreaker: `halloweencandy_13`
+- Oven: `quagmire_oven_item`
+- Oven Kit: `quagmire_crate_oven`
+- Overcoming Arachnophobia: `book_web`
+- Overgrown Statue: `statueharp_hedgespawner`
+- Overheating: `hot`
+- Packet of Blue Seeds: `quagmire_seedpacket_1`
+- Packet of Fluffy Seeds: `quagmire_seedpacket_2`
+- Packet of Mixed Seeds: `quagmire_seedpacket_mix`
+- Packet of Oblong Seeds: `quagmire_seedpacket_6`
+- Packet of Pointy Seeds: `quagmire_seedpacket_4`
+- Packet of Round Seeds: `quagmire_seedpacket_5`
+- Packet of Seed Pods: `quagmire_seedpacket_7`
+- Packet of Seeds: `yotc_seedpacket`
+- Packet of Spiky Seeds: `quagmire_seedpacket_3`
+- Palmcone Sapling: `palmcone_sapling`
+- Palmcone Scale: `palmcone_scale`
+- Palmcone Sprout: `palmcone_seed`
+- Palmcone Tree: `palmconetree`
+- Pan Flute: `panflute`
+- Panettone: `panettone`
+- Paper: `wetpaper`
+- Papyrus: `papyrus`
+- Parasitic Shadeling: `shadow_leech`
+- Partially Assembled Altar: `moon_altar_wip`
+- Partially Assembled Sanctum: `moon_altar_astral_wip`
+- Party Balloon: `balloonparty`
+- Pascal: `knight_yoth_conquest`
+- Pavlova: `pavlova`
+- Pawn Figure: `chesspiece_pawn_builder`
+- Pearl: `hermitcrab_name`
+- Pearl's Hot Spring: `hermithotspring`
+- Pearl's Light Post: `hermitcrab_lightpost`
+- Pearl's Light Post Kit: `hermitcrab_lightpost_item`
+- Pearl's Pearl: `hermit_pearl`
+- Pearl's Place: `hermithouse_pearl`
+- Pearl's Tea Shop: `hermitcrab_teashop`
+- Pebble Crab: `quagmire_pebblecrab`
+- Pebbles: `slingshotammo_rock`
+- Pengull: `penguin`
+- Pepper: `pepper`
+- Pepper Plant: `farm_plant_pepper`
+- Pepper Seeds: `known_pepper_seeds`
+- Perennial Altar: `wendy_resurrectiongrave`
+- Permafrost Pengull: `mutated_penguin`
+- Persistent Directional Springboard: `carnivalgame_golfprop_spring`
+- Persistent Springboard: `carnivalgame_golfprop_spring_nofaced`
+- Personal Floater: `flotationcushion`
+- Petal Tea: `hermitcrabtea_petals`
+- Petals: `petals`
+- Petrified Tree: `rock_petrified_tree`
+- Petrifying Tome: `book_fossil`
+- Phasmo-Encapsulator: `gestalt_cage`
+- Phlegm: `phlegm`
+- Phobic Experiment: `halloween_experiment_bravery`
+- Pick/Axe: `multitool_axe_pickaxe`
+- Pickaxe: `pickaxe`
+- Pickled Herring: `pickledherring`
+- Picnic Casket: `elixir_container`
+- Pierogi: `quagmire_food_050`
+- Pig Head: `pighead`
+- Pig House: `pighouse`
+- Pig King: `pigking`
+- Pig Man: `pigman`
+- Pig Shrine: `pigshrine`
+- Pig Skin: `pigskin`
+- Pig Skin Slingshot Band: `slingshot_band_pigskin`
+- Pig Torch: `pigtorch`
+- Pigeon: `quagmire_pigeon`
+- Piggyback: `piggyback`
+- Pile o' Balloons: `balloons_empty`
+- Pillar Scaffold: `support_pillar_scaffold`
+- Pillow Fight Bell: `yotr_fightring_bell`
+- Pillow Fight Pit: `yotr_fightring`
+- Pillow Fight Pit Kit: `yotr_fightring_kit`
+- Pinchin' Winch: `winch`
+- Pinchin' Winch Blueprint: `winch_blueprint`
+- Pine Cone: `pinecone`
+- Pinetree Pioneer Hat: `walterhat`
+- Pipspook: `smallghost`
+- Pipton's Cart: `quagmire_merm_cart2`
+- Pipton\nThe Cognizant Bog Merm: `quagmire_trader_merm2`
+- Pirate Map: `stash_map`
+- Pirate Sloop: `boat_pirate`
+- Pirate's Bandana: `monkey_smallhat`
+- Pit Pig: `boaron`
+- Pitchfork: `pitchfork`
+- Pith Pike: `spear_gungnir`
+- Pizza: `quagmire_food_057`
+- Plain Omelette: `justeggs`
+- Plank: `walkingplank_grass`
+- Plant: `marsh_plant`
+- Planted Seed: `farm_plant_randomseed`
+- Planted Surprising Seed: `ancienttree_seed_planted`
+- Plate: `quagmire_food_plate`
+- Playbill: `charlie_lecturn`
+- Playing Card: `playing_card`
+- Pleasant Portrait: `decor_portraitframe`
+- Plugged Fissure: `moon_fissure_plugged`
+- Plugged Hole: `cave_entrance_ruins`
+- Plugged Sinkhole: `cave_entrance`
+- Plum Pudding: `winter_food6`
+- Poached Fish: `quagmire_food_040`
+- Pocket Scale: `pocket_scale`
+- Pointy Seeds: `quagmire_seeds_4`
+- Polar Bearger Bin: `beargerfur_sack`
+- Polar Light: `staffcoldlight`
+- Polish Cookies: `polishcookie`
+- Polly Roger: `polly_rogers`
+- Polly Roger's Hat: `polly_rogershat`
+- Pomegranate: `pomegranate`
+- Pomegranate Branch: `farm_plant_pomegranate`
+- Pomegranate Seeds: `known_pomegranate_seeds`
+- Pond: `pond_cave`
+- Poop Pellets: `slingshotammo_poop`
+- Popcorn: `corn_cooked`
+- Popperfish: `oceanfish_small_5_inv`
+- Portable Campfire: `portablefirepit_item`
+- Portable Crock Pot: `portablecookpot_item`
+- Portable Den: `rabbitkinghorn_chest`
+- Portable Grinding Mill: `portableblender_item`
+- Portable Seasoning Station: `portablespicer_item`
+- Portable Storage Unit: `wx78_drone_delivery`
+- Portage Conch: `hermitcrab_shell`
+- Portal Paraphernalia: `multiplayer_portal_moonrock_constr_plans`
+- Portasol: `winona_telebrella`
+- Portation Orb: `vault_orb`
+- Portation Orb Fragment: `vault_orb_refined`
+- Possessed Chassis: `wx78_possessedbody`
+- Possessed Shadow Atrium: `shadowheart_infused`
+- Possessed Slingshot Band: `slingshot_band_mimic`
+- Possessed Varg: `mutatedwarg`
+- Possessed Varg Figure: `chesspiece_warg_mutated_builder`
+- Possessed Varg Figure Sketch: `chesspiece_warg_mutated_sketch`
+- Post: `quagmire_altar_bollard`
+- Pot Hanger: `quagmire_pot_hanger_item`
+- Pot Roast: `quagmire_food_058`
+- Potato: `quagmire_potato`
+- Potato Chips: `quagmire_food_002`
+- Potato Cup: `trinket_26`
+- Potato Pancakes: `quagmire_food_007`
+- Potato Plant: `farm_plant_potato`
+- Potato Sack: `potatosack`
+- Potato Seeds: `known_potato_seeds`
+- Potato Soup: `quagmire_food_008`
+- Potted Fern: `pottedfern`
+- Potted Succulent: `succulent_potted`
+- Potter's Wheel: `sculptingtable`
+- Powder Monkey: `powder_monkey`
+- Powdercake: `powcake`
+- Practical Rain Rituals: `book_rain`
+- Premier Gardeneer Hat: `nutrientsgoggleshat`
+- Premium Seed Packet: `yotc_seedpacket_rare`
+- Prepared Dragon Fruit: `dragonfruit_cooked`
+- Prestihatitator: `researchlab4`
+- Pretty Parasol: `grass_umbrella`
+- Prickly Stagehand: `stageusher`
+- Prime Mate: `prime_mate`
+- Princess Costume: `costume_princess_body`
+- Princess Mask: `mask_princesshat`
+- Prize Booth: `carnival_prizebooth`
+- Prize Booth Kit: `carnival_prizebooth_kit`
+- Prize Tickets: `carnival_prizeticket`
+- Prized Ball and Cup: `lost_toy_7`
+- Processing Circuit: `wx78module_maxsanity1`
+- Produce Scale: `trophyscale_oversizedveggies`
+- Psychosis Experiment: `halloween_experiment_sanity`
+- Puffed Potato Soufflé: `potatosouffle`
+- Puffin: `puffin`
+- Puffy Vest: `trunkvest_winter`
+- Pulse Cradle: `vault_key_activator`
+- Pumpkin: `pumpkin`
+- Pumpkin Cookies: `pumpkincookie`
+- Pumpkin Head: `pumpkinhat_carved`
+- Pumpkin Knife: `pumpkincarver2`
+- Pumpkin Lantern: `pumpkin_lantern`
+- Pumpkin Pie: `pumpkinpie`
+- Pumpkin Plant: `farm_plant_pumpkin`
+- Pumpkin Saw: `pumpkincarver3`
+- Pumpkin Scooper: `pumpkincarver1`
+- Pumpkin Seeds: `known_pumpkin_seeds`
+- Punching Bag: `punchingbag`
+- Pure Brilliance: `purebrilliance`
+- Pure Brilliance Rounds: `slingshotammo_purebrilliance`
+- Pure Gestalt: `alterguardian_phase1_lunarrift_gestalt`
+- Pure Horror: `horrorfuel`
+- Pure Horror Rounds: `slingshotammo_horrorfuel`
+- Purple Gem: `purplegem`
+- Purple Moonlens: `purplemooneye`
+- Putter: `carnivalgame_golfclub`
+- Pyretic Pickaxe: `fumarolepickaxe`
+- Pyrokinetics Explained: `book_fire`
+- Queen Beast: `quagmire_altar_queen`
+- Queen Costume: `costume_queen_body`
+- Queen Mask: `mask_queenhat`
+- Queen of Moon Quay: `monkeyqueen`
+- Queenly Figure: `chesspiece_muse_builder`
+- Rabbit: `rabbit`
+- Rabbit Earmuffs: `earmuffshat`
+- Rabbit Hole: `rabbithole`
+- Rabbit Hutch: `rabbithouse`
+- Rabbit King Cudgel: `rabbitkingspear`
+- Race Checkpoint: `boatrace_checkpoint`
+- Race Checkpoint Kit: `boatrace_checkpoint_throwable_deploykit`
+- Rain Coat: `raincoat`
+- Rain Hat: `rainhat`
+- Rainometer: `rainometer`
+- Rainy Day Lure: `oceanfishinglure_hermit_rain`
+- Raised Dirt: `mole_underground`
+- Raisins: `halloweencandy_7`
+- Rangebooster Circuit: `wx78module_radar`
+- Rare Cawnival Statuette: `carnivaldecor_figure_rare`
+- Rasp: `shadowthrall_horns_allegiance`
+- Ratatouille: `quagmire_food_030`
+- Raw Fish: `fishmeat`
+- Razor: `razor`
+- Reanimated Skeleton: `stalker`
+- Recipe Card: `cookingrecipecard_scrapbook`
+- Record: `record`
+- Red Cap: `red_cap`
+- Red Crown: `cotl_trinket`
+- Red Firecrackers: `firecrackers`
+- Red Funcap: `red_mushroomhat`
+- Red Gem: `redgem`
+- Red Lantern: `redlantern`
+- Red Mark: `quagmire_coin3`
+- Red Moonlens: `redmooneye`
+- Red Mosaic Flooring: `turf_mosaic_red`
+- Red Mushroom: `red_mushroom`
+- Red Mushtree: `mushtree_medium`
+- Red Mystery Box: `carnivaldecor_figure_kit_season3`
+- Red Pop-up Blocker: `carnivalgame_golfprop_movingwall_red`
+- Red Pouch: `redpouch`
+- Red Spore: `spore_medium`
+- Redbird: `robin`
+- Redigestion Circuit: `wx78module_digestion`
+- Reed Tunic: `lavaarena_armorlight`
+- Reeds: `reeds`
+- Reflex Gym: `yotc_carrat_gym_reaction`
+- Reflex Gym Kit: `yotc_carrat_gym_reaction_item`
+- Refrigerant Circuit: `wx78module_cold`
+- Regal Shovel: `goldenshovel`
+- Reinforced Dreadstone Pillar: `support_pillar_dreadstone_complete`
+- Reinforced Support Pillar: `support_pillar_complete`
+- Relic: `relic`
+- Reliquary: `vault_key_pedestal`
+- Replica Relic Bowl: `ruinsrelic_bowl`
+- Replica Relic Chair: `ruinsrelic_chair`
+- Replica Relic Dish: `ruinsrelic_chipbowl`
+- Replica Relic Plate: `ruinsrelic_plate`
+- Replica Relic Table: `ruinsrelic_table`
+- Replica Relic Vase: `ruinsrelic_vase`
+- Replica Sanctum Bowl: `vaultrelic_bowl`
+- Replica Sanctum Planter: `vaultrelic_planter`
+- Replica Sanctum Vase: `vaultrelic_vase`
+- Research Notes: `wagstaff_electricity_note`
+- Resplendent Nox Helm: `lavaarena_crowndamagerhat`
+- Resting Horror: `ruins_shadeling`
+- Restrained Static: `moonstorm_static_item`
+- Resurrection Sickness: `resurrection_penalty`
+- Reticulating Buffer: `wagstaff_tool_1`
+- Retinazor: `twinofterror1`
+- Revenant Restorative: `ghostlyelixir_slowregen`
+- Rhinocebro Flatbrim: `rhinodrill2`
+- Rhinocebro Snapback: `rhinodrill`
+- Rictus: `shadowthrall_mouth_allegiance`
+- Rift: `shadowrift_portal`
+- Rift Watch: `pocketwatch_portal`
+- Riled Lucy: `lavaarena_lucy`
+- Ring Thing: `teleportato_ring`
+- Ripe Stone Fruit: `rock_avocado_fruit_ripe`
+- Ripple: `shadowthrall_centipede_allegiance`
+- Roast Garlic: `quagmire_garlic_cooked`
+- Roast Onion: `quagmire_onion_cooked`
+- Roast Potato: `quagmire_potato_cooked`
+- Roast Toma Root: `quagmire_tomato_cooked`
+- Roast Turnip: `quagmire_turnip_cooked`
+- Roast Vegetables: `quagmire_food_014`
+- Roast Wheat: `quagmire_wheat_cooked`
+- Roasted Asparagus: `asparagus_cooked`
+- Roasted Berries: `berries_cooked`
+- Roasted Birchnut: `acorn_cooked`
+- Roasted Carrot: `carrot_cooked`
+- Roasted Garlic: `garlic_cooked`
+- Roasted Juicy Berries: `berries_juicy_cooked`
+- Roasted Onion: `onion_cooked`
+- Roasted Pepper: `pepper_cooked`
+- Roasted Potato: `potato_cooked`
+- Roasted Toma Root: `tomato_cooked`
+- Roasted Turkey: `roastturkey`
+- Roasted Turnip: `turnip_cooked`
+- Rock: `lava_pond_rock`
+- Rock Den: `critterlab`
+- Rock Lobster: `rocky`
+- Rocking Mare: `yoth_chair_rocking`
+- Rocking Mare Kit: `yoth_chair_rocking_item`
+- Rockjaw: `shark`
+- Rocks: `rocks`
+- Rocky Beach Turf: `turf_pebblebeach`
+- Rocky Turf: `turf_rocky`
+- Rook Figure: `chesspiece_rook_builder`
+- Rope: `ceiling_rope`
+- Rose Obstacle: `carnivalgame_golfprop_cutout2`
+- Rose-Colored Glasses: `roseglasseshat`
+- Rot: `spoiled_food`
+- Roto-Mapper: `wx78_drone_scout`
+- Rotten Crop: `quagmire_rotten_crop`
+- Rotten Egg: `rottenegg`
+- Rotting Plant: `farm_plant_rotten`
+- Round Seeds: `quagmire_seeds_5`
+- Round Wooden Table: `wood_table_round`
+- Royal Jelly: `royal_jelly`
+- Royal Rabbit Enforcer: `rabbitkingminion_bunnyman`
+- Royal Tapestry: `mermthrone`
+- Royal-In-Progress: `merm_prince`
+- Rubble: `rubble`
+- Rudder: `boat_rotator`
+- Rudder Kit: `boat_rotator_kit`
+- Rude Interlude: `battlesong_instant_taunt`
+- Ruined Sap: `quagmire_sap_spoiled`
+- Ruins Turf Blueprints: `blueprint_craftingset_ruins_builder`
+- Rundown House: `quagmire_mermhouse`
+- Runty Guppy: `oceanfish_small_1_inv`
+- Ryftstal: `lunarrift_crystal_small`
+- Saddle: `saddle_basic`
+- Saddlehorn: `saddlehorn`
+- Safe: `quagmire_safe`
+- Saffron Feather: `feather_canary`
+- Saffron Quill Float: `oceanfishingbobber_canary`
+- Sage's Masque: `mask_sagehat`
+- Saladmander: `fruitdragon`
+- Salmon: `quagmire_salmon`
+- Salsa Fresca: `salsa`
+- Salt: `quagmire_salt`
+- Salt Box: `saltbox`
+- Salt Crystals: `saltrock`
+- Salt Formation: `saltstack`
+- Salt Lick: `saltlick`
+- Salt Pond: `quagmire_pond_salt`
+- Salt Rack: `quagmire_salt_rack_item`
+- Salty Dog: `salty_dog`
+- Salty Dog's Hat: `salty_doghat`
+- Sammy's Wagon: `quagmire_merm_cart1`
+- Sammy\nThe Lucid Bog Merm: `quagmire_trader_merm`
+- Sanctum Lunarune Stone: `vault_rune`
+- Sanctum Lustre: `vault_chandelier_broken`
+- Sanctum Purifier: `vault_decon_mister`
+- Sanctum Relic: `vaultrelic`
+- Sanctum Smithy: `vault_refiner_pedestal`
+- Sanctum Statue: `vault_statue`
+- Sanctum Waymark: `vault_teleporter`
+- Sand Castle: `sandblock`
+- Sand Spike: `sandspike`
+- Sandy Turf: `turf_desertdirt`
+- Sanguine Experiment: `halloween_experiment_health`
+- Sanity: `decrease_sanity`
+- Sap: `quagmire_sap`
+- Sapling: `sapling`
+- Sapphire Medallion: `quagmire_coin2`
+- Sausage: `quagmire_food_027`
+- Savanna Turf: `turf_savanna`
+- Sawhorse: `carpentry_station`
+- Sawyer: `pigelitefighter4`
+- Scaled Chest: `dragonflychest`
+- Scaled Flooring: `turf_dragonfly`
+- Scaled Furnace: `dragonflyfurnace`
+- Scaled Plank: `walkingplank_yotd`
+- Scalemail: `armordragonfly`
+- Scales: `dragon_scales`
+- Science Machine: `researchlab`
+- Scone: `quagmire_food_067`
+- Scorching Sunfish: `oceanfish_small_8_inv`
+- Scorpeon: `peghook`
+- Scorpeon Acid: `peghook_dot`
+- Scrambling Egg: `carnivalgame_herding_chick`
+- Scrap: `wagpunk_bits`
+- Scrap Wall: `wall_scrap`
+- Scrappier Slingshot Frame: `slingshot_frame_wagpunk`
+- Scrappy Chapauldron: `scraphat`
+- Scrappy Slingshot Frame: `slingshot_frame_wagpunk_0`
+- Scrappy Werepig: `daywalker2`
+- Scrappy Werepig Figure: `chesspiece_daywalker2_builder`
+- Scrappy Werepig Figure Sketch: `chesspiece_daywalker2_sketch`
+- Sculpting Block: `sculpting_material`
+- Sea Bones: `dead_sea_bones`
+- Sea Cocoon: `seacocoon_top`
+- Sea Fishing Rod: `oceanfishingrod`
+- Sea Sprout: `waterplant_baby`
+- Sea Sprout Starter: `waterplant_planter`
+- Sea Stack: `seastack`
+- Sea Strider: `spider_water`
+- Sea Strider Nest: `oceanvine_cocoon_burnt`
+- Sea Turtle: `water_turtle`
+- Sea Weed: `waterplant`
+- Seafood Gumbo: `seafoodgumbo`
+- Sealed Portal: `archive_portal`
+- Searing Shovel: `fumaroleshovel`
+- Seaside Debris: `meatrack_hermit_abandoned`
+- Seaside Spoils: `hermitcrab_lightpost_abandoned`
+- Seasoning Salt: `spice_salt`
+- Seawreath: `kelphat`
+- Second Chance Watch: `pocketwatch_revive_reviver`
+- Second-hand Dentures: `trinket_10`
+- Seed Clusters: `carnival_seedpacket`
+- Seed Pack-It: `seedpouch`
+- Seed Pods: `quagmire_seeds_7`
+- Seeds: `seeds`
+- Seedshell: `waterplant_bomb`
+- Sentimental Adornment: `winter_ornament_boss_pearl`
+- Sentimental Kazoo: `lost_toy_2`
+- Sentrypede Husk: `archive_centipede_husk`
+- Sequitor: `abysspillar_minion`
+- Sewing Kit: `sewing_kit`
+- Sewing Machine: `yotb_sewingmachine`
+- Sewing Machine Kit: `yotb_sewingmachine_item`
+- Shadow: `waxwell_shadowstriker`
+- Shadow Atrium: `shadowheart`
+- Shadow Atrium Tendril: `shadow_heart_vein`
+- Shadow Bishop: `shadow_bishop`
+- Shadow Boxer: `punchingbag_shadow`
+- Shadow Dancer: `shadowdancer`
+- Shadow Digger: `shadowdigger_builder`
+- Shadow Duelist: `shadowduelist_builder`
+- Shadow Hand: `shadowhand`
+- Shadow Key: `maxwellkey`
+- Shadow Knight: `shadow_knight`
+- Shadow Logger: `shadowlumber_builder`
+- Shadow Manipulator: `researchlab3`
+- Shadow Maul: `shadow_battleaxe`
+- Shadow Merm: `merm_shadow`
+- Shadow Merm Guard: `mermguard_shadow`
+- Shadow Miner: `shadowminer_builder`
+- Shadow Queen: `charlie_npc_alt`
+- Shadow Reaper: `voidcloth_scythe`
+- Shadow Rook: `shadow_rook`
+- Shadow Tentacle: `shadowtentacle`
+- Shadow Thurible: `thurible`
+- Shadowcraft Plinth: `shadow_forge`
+- Shadowcraft Plinth Kit: `shadow_forge_kit`
+- Shallow Grave: `shallow_grave_player`
+- Sharp Seeds: `pumpkin_seeds`
+- Shatter Switcherdoodle: `mutator_moon`
+- Shattered Doll Mask: `mask_dollrepairedhat`
+- Shattered Spider: `moonspider_spike`
+- Shattered Spider Hole: `moonspiderden`
+- Shell Beach Turf: `turf_shellbeach`
+- Shell Bell Bundle: `hermit_bundle_shells`
+- Shell Bumper: `boat_bumper_shell`
+- Shell Bumper Kit: `boat_bumper_shell_kit`
+- Shell Cluster: `shell_cluster`
+- Shell Turf Blueprint: `turf_shellbeach_blueprint`
+- Shelmet: `slurtlehat`
+- Shenanigans: `shenanigans`
+- Shepherd's Pie: `quagmire_food_041`
+- Shield of Terror: `shieldofterror`
+- Shiny Red Ball: `carnival_ball`
+- Shockscrap Shots: `slingshotammo_scrapfeather`
+- Shoddy Tool: `merm_tool`
+- Shoddy Tool Shed: `merm_toolshed`
+- Shoe Horn: `trinket_23`
+- Shoo Box: `spider_repellent`
+- Shooter Sandwich: `quagmire_food_061`
+- Short Circuit: `rain`
+- Short Rabbit Lamp: `yotr_decor_1_item`
+- Shovel: `shovel`
+- Shriek: `shadowthrall_wings_allegiance`
+- Shroom Skin: `shroom_skin`
+- Shtick Horse: `yoth_knightstick`
+- Sick Mini Worm Hole: `carnivalgame_golfprop_wormhole_limited`
+- Sick Worm Hole: `wormhole_limited`
+- Siesta Lean-to: `siestahut`
+- Sign: `homesign`
+- Silk: `silk`
+- Silken Grand Armor: `lavaarena_armor_hprecharger`
+- Silken Wood Armor: `lavaarena_armormediumrecharger`
+- Silver Bowl: `quagmire_bowl_silver`
+- Silver Plate: `quagmire_plate_silver`
+- Sinkhole: `antlion_sinkhole`
+- Sisturn: `sisturn`
+- Skeeter Bomb: `mosquitobomb`
+- Skeleton: `skeleton_player`
+- Sketch: `sketch_scrapbook`
+- Skewered Puffs: `yotr_food4`
+- Skittersquid: `squid`
+- Skullchest: `skullchest`
+- Sky Lantern: `floatinglantern`
+- Slaughter Tools: `quagmire_slaughtertool`
+- Sleep Dart: `blowdart_sleep`
+- Sleepytime Stories: `book_sleep`
+- Sliced Pomegranate: `pomegranate_cooked`
+- Sliders: `quagmire_food_020`
+- Slightly Less Shoddy Tool: `merm_tool_upgraded`
+- Slightly Less Shoddy Tool Shed: `merm_toolshed_upgraded`
+- Slimy Salve: `healingsalve_acid`
+- Slimy Turf: `turf_sinkhole`
+- Slingshot Field Kit: `slingshotmodkit`
+- Slingshot Grip Tape: `slingshot_handle_silk`
+- Slingshot Jelly Grip: `slingshot_handle_jelly`
+- Slingshot Sticky Grip: `slingshot_handle_sticky`
+- Slingshot Void Wrap: `slingshot_handle_voidcloth`
+- Slow-Down Rounds: `slingshotammo_slow`
+- Slurper: `slurper`
+- Slurper Pelt: `slurper_pelt`
+- Slurtle: `slurtle`
+- Slurtle Mound: `slurtlehole`
+- Slurtle Slime: `slurtleslime`
+- Small Casserole Dish: `quagmire_casseroledish_small`
+- Small Fishy Jerky: `fishmeat_small_dried`
+- Small Grill: `quagmire_grill_small_item`
+- Small Jerky: `smallmeat_dried`
+- Small Streetlight: `quagmire_lamp_short`
+- Small Vitreoasis: `grotto_pool_small`
+- Smallbird: `smallbird`
+- Smallish Tallbird: `teenbird`
+- Smashed Clock: `quagmire_rubble_clock`
+- Smolt Fry: `oceanfish_small_4_inv`
+- Snail Scale: `trinket_40`
+- Snazzy Pitchfork: `goldenpitchfork`
+- Snortoise: `turtillus`
+- Snow Day Lure: `oceanfishinglure_hermit_snow`
+- Snowball: `snowball_item`
+- Snowbird: `robin_winter`
+- Snowman: `snowman`
+- Snurtle: `snurtle`
+- Snurtle Shell Armor: `armorsnurtleshell`
+- Somewhat Gigantic Beehive: `beequeenhivegrowing`
+- Sonic-Invoker Circuit: `wx78module_screech`
+- Soothing Tea: `sweettea`
+- Soprano Shell Bell: `singingshell_octave5`
+- Soul: `wortox_soul`
+- Soul Jar: `wortox_souljar`
+- Spaghetti and Meatball: `quagmire_food_038`
+- Spark Ark: `security_pulse_cage_full`
+- Spark Socket: `vault_pillar_guard_piece_2`
+- Spatializer Circuit: `wx78module_stacksize`
+- Spazmatism: `twinofterror2`
+- Spear: `spear`
+- Spectackler Box: `supertacklecontainer`
+- Spectral Cure-All: `ghostlyelixir_fastregen`
+- Spectral Transfer Module: `wx78_gestalttrapper`
+- Speed Gym: `yotc_carrat_gym_speed`
+- Speed Gym Kit: `yotc_carrat_gym_speed_item`
+- Speedy Balloon: `balloonspeed`
+- Spelunker's Bridge Kit: `rope_bridge_kit`
+- Spicy Chili: `hotchili`
+- Spider: `spider`
+- Spider Decoration: `halloween_ornament_3`
+- Spider Den: `spiderden`
+- Spider Eggs: `spidereggsack`
+- Spider Gland: `spidergland`
+- Spider Obstacle: `carnivalgame_golfprop_cutout8`
+- Spider Queen: `spiderqueen`
+- Spider Ring: `trinket_33`
+- Spider Warrior: `spider_warrior`
+- Spiderhat: `spiderhat`
+- Spiky Bush: `burnt_marsh_bush`
+- Spiky Seeds: `quagmire_seeds_3`
+- Spiky Tree: `marsh_tree`
+- Spilagmite: `spiderhole_rock`
+- Spin-Cycle Circuit: `wx78module_spin`
+- Spiny Bindweed: `weed_ivy`
+- Spiral Spear: `spear_lance`
+- Spirit Vessel: `graveurn`
+- Spitter: `spider_spitter`
+- Spitter Switcherdoodle: `mutator_spitter`
+- Spittlefish: `oceanfish_small_9_inv`
+- Splendid Garden Hoe: `golden_farm_hoe`
+- Splumonkey: `monkey`
+- Splumonkey Pod: `monkeybarrel`
+- Spoiled Fish: `spoiled_fish`
+- Spoiled Fish Morsel: `spoiled_fish_small`
+- Spore Cloud: `sporecloud`
+- Sporecap: `mushroomsprout`
+- Spot Spice: `quagmire_spotspice_ground`
+- Spotty Shrub: `quagmire_spotspice_shrub`
+- Spotty Sprig: `quagmire_spotspice_sprig`
+- Springboard: `carnivalgame_golfprop_spring_nofaced_onetime`
+- Sprouting Stone Fruit: `rock_avocado_fruit_sprout`
+- Sproutrock: `ancienttree_gem`
+- Sproutrock Sapling: `ancienttree_gem_sapling_item`
+- Square Seeds: `watermelon_seeds`
+- Square Wooden Table: `wood_table_square`
+- Stag Antler: `klaussackkey`
+- Stage: `charlie_stage_post`
+- Stagehand: `stagehand`
+- Stairs: `cave_exit`
+- Stalagmite: `stalagmite_tall`
+- Standard Mini-Golf Kit: `carnivalgame_golfgame_kit_medium`
+- Star Caller's Staff: `yellowstaff`
+- Star-sky: `hutch_fishbowl`
+- Start Tower: `boatrace_start`
+- Start Tower Figure: `chesspiece_yotd_builder`
+- Start Tower Figure Sketch: `chesspiece_yotd_sketch`
+- Start Tower Kit: `boatrace_start_throwable_deploykit`
+- Starting Point: `yotc_carrat_race_start`
+- Starting Point Kit: `yotc_carrat_race_start_item`
+- Startling Soliloquy: `battlesong_instant_panic`
+- Starvation: `hunger`
+- Static Restrainer: `moonstorm_static_catcher`
+- Steadfast Grand Armor: `lavaarena_armor_hpextraheavy`
+- Steadfast Stone Armor: `lavaarena_armorextraheavy`
+- Steak Frites: `quagmire_food_060`
+- Steamed Twigs: `beefalofeed`
+- Steel Wool: `steelwool`
+- Steel Wool Pillow: `handpillow_steelwool`
+- Steel Wool Pillow Armor: `bodypillow_steelwool`
+- Steeped Lunar Essence: `halloweenpotion_moon`
+- Steering Wheel: `steeringwheel`
+- Steering Wheel Kit: `steeringwheel_item`
+- Stickies: `slingshotammo_honey`
+- Stinger: `stinger`
+- Stinger Zingers: `slingshotammo_stinger`
+- Stockings: `hermithouse_laundry_socks`
+- Stone Chair: `stone_chair`
+- Stone Fruit: `rock_avocado_fruit`
+- Stone Fruit Bush: `dug_rock_avocado_bush`
+- Stone Pillar: `quagmire_park_obelisk`
+- Stone Round Table: `stone_table_round`
+- Stone Soup: `quagmire_food_012`
+- Stone Splint Mail: `lavaarena_armorheavy`
+- Stone Square Table: `stone_table_square`
+- Stone Stool: `stone_stool`
+- Stone Wall: `wall_stone`
+- Strange Tool: `wagstaff_tool_3_layman`
+- Straw Hat: `strawhat`
+- Straw Roll: `bedroll_straw`
+- Streamer Cannon: `carnivalcannon_streamer`
+- Streamer Cannon Kit: `carnivalcannon_streamer_kit`
+- Streetlight: `quagmire_lamp_post`
+- Strident Trident: `trident`
+- Strider Switcherdoodle: `mutator_water`
+- Stuffed Eggplant: `stuffedeggplant`
+- Stuffed Fish Heads: `barnaclestuffedfishhead`
+- Stuffed Mushroom: `quagmire_food_029`
+- Stuffed Night Cap: `shroombait`
+- Stuffed Pepper Poppers: `pepperpopper`
+- Stuffing: `stuffing`
+- Stupefying Lure: `oceanfishinglure_hermit_drowsy`
+- Substrate Extrapolator: `wagpunk_floor_kit`
+- Succulent: `succulent_picked`
+- Succulent Tea: `hermitcrabtea_succulent_picked`
+- Sugar Cookie: `winter_food2`
+- Sugarwood Tree: `quagmire_sugarwoodtree`
+- Sulfuric Crystals of Lime: `halloweenpotion_embers`
+- Sulfuric Crystals of Saltpeter: `halloweenpotion_sparks`
+- Sulfuric Experiment: `halloween_experiment_volatile`
+- Summer Frest: `reflectivevest`
+- Sunken Chest: `sunkenchest`
+- Sunrise Spinnerbait: `oceanfishinglure_spinner_red`
+- Sunrise Spoon: `oceanfishinglure_spoon_red`
+- Super Growth Formula: `soil_amender_fermented`
+- Super-Acceleration Circuit: `wx78module_movespeed2`
+- Super-Gastrogain Circuit: `wx78module_maxhunger`
+- Super-Hardy Circuit: `wx78module_maxhealth2`
+- Super-Illumination Circuit: `wx78module_light2`
+- Super-Processing Circuit: `wx78module_maxsanity`
+- Superior Armermry: `merm_armory_upgraded`
+- Superior Communal Kelp Dish: `offering_pot_upgraded`
+- Support Pillar: `support_pillar`
+- Support Pillar Wreckage: `support_pillar_broken`
+- Surf 'n' Turf: `surfnturf`
+- Surprising Seed: `ancienttree_seed`
+- Suspicious Boulder: `rock_moon_shell`
+- Suspicious Dirt Pile: `dirtpile`
+- Suspicious Marble: `sculpture_rooknose`
+- Suspicious Moonrock: `gargoyle_werepig`
+- Suspicious Peeper: `eyeofterror_mini`
+- Swamp Brawler Helmet: `mermarmorhat`
+- Swamp Pig Elder: `quagmire_swampigelder`
+- Swamp Warrior Helmet: `mermarmorupgradedhat`
+- Swarming Horror: `slingshotammo_horrorfuel_debuff_fx`
+- Sweet Potato Casserole: `sweetpotato`
+- Sweetish Fish: `oceanfish_medium_9_inv`
+- Swirly Seeds: `eggplant_seeds`
+- Syrup: `quagmire_syrup`
+- Syrup Pot: `quagmire_pot_syrup`
+- Syrup of Ipecaca: `ipecacsyrup`
+- T.I.N.G.L.E: `fence_electric_field`
+- T.I.N.G.L.E. Node: `fence_electric_item`
+- Table Lamp: `decor_lamp`
+- Table Vase: `decor_flowervase`
+- Tackle Box: `tacklecontainer`
+- Tackle Receptacle: `tacklestation`
+- Taffy: `taffy`
+- Tail o' Three Cats: `whip`
+- Tall Rabbit Lamp: `yotr_decor_2_item`
+- Tall Scotch Eggs: `talleggs`
+- Tallbird: `tallbird`
+- Tallbird Egg: `tallbirdegg`
+- Tallbird Nest: `tallbirdnest`
+- Tam o' Shanter: `walrushat`
+- Tamales: `tamales`
+- Target: `carnivalgame_shooting_target`
+- Team Leader: `teamleader`
+- Teetering Junk Pile: `junk_pile_big`
+- Telelocator Focus: `telebase`
+- Telelocator Staff: `telestaff`
+- Teletransport Station: `winona_teleport_pad_item`
+- Telltale Heart: `reviver`
+- Tempering Temperatures: `book_temperature`
+- Tent: `tent`
+- Tent Roll: `portabletent_item`
+- Tentacle: `tentacle`
+- Tentacle Decoration: `halloween_ornament_4`
+- Tentacle Lolli: `halloweencandy_10`
+- Tentacle Obstacle: `carnivalgame_golfprop_cutout10`
+- Tentacle Spike: `tentaclespike`
+- Tentacle Spots: `tentaclespots`
+- Terra Firma Tamper: `turfcraftingstation`
+- Terramite: `wagdrone_rolling`
+- Terramite Barrier Post: `wagdrone_beacon`
+- Terrarium: `terrarium`
+- Terrorbeak: `terrorbeak`
+- Terrorclaw: `oceanhorror`
+- The Altar of Gnaw: `quagmire_altar`
+- The Angler's Survival Guide: `book_fish`
+- The Enchanted Doll\nA Stage Play: `playbill_the_doll`
+- The End is Nigh!: `book_brimstone`
+- The Everything Encyclopedia: `book_research_station`
+- The Lazy Deserter: `townportal`
+- The Lazy Explorer: `orangestaff`
+- The Lazy Forager: `orangeamulet`
+- The Pall\nA Stage Play: `playbill_the_veil`
+- The World: `world`
+- Thermal Balm: `healingsalve_fumarole`
+- Thermal Circuit: `wx78module_heat`
+- Thermal Measurer: `winterometer`
+- Thermal Stone: `heatrock`
+- Thermalock Missile: `wagboss_missile`
+- Thermbell: `dumbbell_heat`
+- Thick Fur: `bearger_fur`
+- Think Tank: `seafaring_prototyper`
+- Thorns: `bramblefx`
+- Thorny Buoy: `boatrace_seastack_monkey`
+- Thorny Buoy Kit: `boatrace_seastack_monkey_throwable_deploykit`
+- Thulecite: `thulecite`
+- Thulecite Bug Net: `thulecitebugnet`
+- Thulecite Club: `ruins_bat`
+- Thulecite Crown: `ruinshat`
+- Thulecite Fragments: `thulecite_pieces`
+- Thulecite Medallion: `nightmare_timepiece`
+- Thulecite Slingshot Frame: `slingshot_frame_gems`
+- Thulecite Suit: `armorruins`
+- Thulecite Wall: `wall_ruins`
+- Ticoon: `ticoon_builder`
+- Tidy Hidey-Hole: `dustmothden`
+- Tillweed: `weed_tillweed`
+- Tillweed Salve: `tillweedsalve`
+- Tillweed Tea: `hermitcrabtea_tillweed`
+- Tillweeds: `tillweed`
+- Time Pieces: `pocketwatch_parts`
+- Time Rift: `pocketwatch_portal_exit`
+- Tin Fishin' Bin: `fish_box`
+- Tiny Rocketship: `trinket_5`
+- Toadstool: `toadstool_cap`
+- Toadstool Figure: `chesspiece_toadstool_builder`
+- Toady's Masque: `mask_toadyhat`
+- Toasted Seeds: `seeds_cooked`
+- Toma Root: `quagmire_tomato`
+- Toma Root Plant: `farm_plant_tomato`
+- Toma Root Seeds: `known_tomato_seeds`
+- Tomato Soup: `quagmire_food_026`
+- Tome of Beckoning: `book_elemental`
+- Tooth Trap: `trap_teeth`
+- Top Hat: `tophat`
+- Torch: `torch`
+- Tornado: `tornado`
+- Totally Normal Root: `livingtree_root`
+- Totally Normal Sapling: `livingtree_sapling`
+- Totally Normal Tree: `livingtree`
+- Touch Stone: `resurrectionstone`
+- Tourtiere: `tourtiere`
+- Toy Cobra: `trinket_42`
+- Toy Trojan Horse: `trinket_18`
+- Trail Mix: `trailmix`
+- Trap: `trap`
+- Trapdoor: `carnivalgame_shooting_target_off`
+- Treasure Chest: `treasurechest_trap`
+- Treasured Toy Trojan Horse: `lost_toy_18`
+- Tree Costume: `costume_tree_body`
+- Tree Jam: `treegrowthsolution`
+- Tree Mask: `mask_treehat`
+- Tree Tapping Kit: `quagmire_sapbucket`
+- Treeguard: `leif_sparse`
+- Treeguard Idol: `leif_idol`
+- Tribute Roast: `yotp_food1`
+- Trifle: `quagmire_food_068`
+- Trusty Slingshot: `slingshot`
+- Trusty Tape: `sewing_tape`
+- Tubular Seeds: `asparagus_seeds`
+- Tumblerful of Psychic Fortitude: `halloweenpotion_sanity_large`
+- Tumbleweed: `tumbleweed`
+- Tunneling Vine: `lunarthrall_plant_vine_end`
+- Turf-Raiser Helm: `antlionhat`
+- Turkey Dinner: `turkeydinner`
+- Turnip: `quagmire_turnip`
+- Turnip Cake: `quagmire_food_006`
+- Turnip Seeds: `known_turnip_seeds`
+- Twiggy Sapling: `twiggy_nut_sapling`
+- Twiggy Tree: `twiggytree`
+- Twiggy Tree Cone: `twiggy_nut`
+- Twigs: `twigs`
+- Twins of Terror Figure: `chesspiece_twinsofterror_builder`
+- Twintailed Heart: `wortox_reviver`
+- Umbralla: `voidcloth_umbrella`
+- Umbrella: `umbrella`
+- Unagi: `unagi`
+- Unbalanced Top: `trinket_19`
+- Uncommon Cawnival Statuette: `carnivaldecor_figure_uncommon`
+- Undisclosed Construct: `wagboss_robot_secret`
+- Unknown: `unknown`
+- Unnatural Portal: `monkeyisland_portal`
+- Unrestrained Static: `moonstorm_static_roamer`
+- Unseen Hand: `shadowchanneler`
+- Unstable Transmission: `winona_holotelebrella`
+- Unyielding Draught: `ghostlyelixir_shield`
+- Urn: `quagmire_park_urn`
+- Varg: `warg`
+- Varg Figure: `chesspiece_claywarg_builder`
+- Varg Shrine: `wargshrine`
+- Varglet: `warglet`
+- Vargling: `critter_puppy_builder`
+- Vegetable Soup: `quagmire_food_003`
+- Vegetable Stinger: `vegstinger`
+- Veggie Burger: `leafymeatburger`
+- Victorian Beefalo Doll: `yotb_beefalo_doll_victorian`
+- Victorian Costume Pattern: `victorian_blueprint`
+- Vigor Mortis: `ghostlyelixir_speed`
+- Visionist's Mask: `mask_ancient_architecthat`
+- Vitreoasis: `grotto_pool_big`
+- Void Cowl: `voidclothhat`
+- Void Masque: `shadowthrall_parasite`
+- Void Repair Kit: `voidcloth_kit`
+- Void Robe: `armor_voidcloth`
+- Volt Goat: `lightninggoat`
+- Volt Goat Chaud-Froid: `voltgoatjelly`
+- Volt Goat Horn: `lightninggoathorn`
+- W.A.R.B.I.S. Armor: `armorwagpunk`
+- W.A.R.B.I.S. Head Gear: `wagpunkhat`
+- W.A.R.B.O.T.: `wagboss_robot`
+- W.A.R.B.O.T. Base: `wagboss_robot_constructionsite`
+- W.A.R.B.O.T. Base Kit: `wagboss_robot_constructionsite_kit`
+- W.A.R.B.O.T. Figure: `chesspiece_wagboss_robot_builder`
+- W.A.R.B.O.T. Figure Sketch: `chesspiece_wagboss_robot_sketch`
+- W.A.R.B.O.T. Leg: `wagboss_robot_leg`
+- W.A.R.B.O.T. Parts: `wagboss_robot_creation_parts`
+- W.I.N.bot: `winona_storage_robot`
+- W.O.B.O.T.: `storage_robot`
+- WX-78: `wx78`
+- Wade: `pigelitefighter1`
+- Waffles: `quagmire_food_044`
+- Walking Cane: `cane`
+- Walrus Camp: `walrus_camp`
+- Walrus Tusk: `walrus_tusk`
+- Walter: `walter`
+- Wanda: `wanda`
+- Wandering Trader: `wanderingtrader_revealed`
+- War Saddle: `saddle_war`
+- Warbler: `wagdrone_flying`
+- Wardrobe: `wardrobe`
+- Warly: `warly`
+- Warren: `knight_yoth_war`
+- Warren Wreath: `rabbithat`
+- Warrior Beefalo Doll: `yotb_beefalo_doll_war`
+- Warrior Costume Pattern: `war_blueprint`
+- Warrior Switcherdoodle: `mutator_warrior`
+- Warrior's Reprise: `battlesong_instant_revive`
+- Waterballoon: `waterballoon`
+- Waterfowl Can: `premiumwateringcan_not_empty`
+- Watering Can: `wateringcan_not_empty`
+- Watermelon: `watermelon`
+- Watermelon Plant: `farm_plant_watermelon`
+- Watermelon Seeds: `known_watermelon_seeds`
+- Wavey Jones: `waveyjones`
+- Wax Paper: `waxpaper`
+- Waymark Compass: `vault_compass`
+- Weaponized Warble: `battlesong_durability`
+- Weather Pain: `staff_tornado`
+- Webbed Blue Mushtree: `mushtree_tall_webbed`
+- Webber: `webber`
+- Webber's Skull: `webberskull`
+- Webby Whistle: `spider_whistle`
+- Wee MacTusk: `little_walrus`
+- Weird Tool: `wagstaff_tool_2_layman`
+- Wendy: `wendy`
+- Wes: `wes`
+- Wet Goop: `wetgoop`
+- Wheat: `quagmire_wheat`
+- Whirlportal: `oceanwhirlportal`
+- Whirly Fan: `minifan`
+- Whispering Grand Armor: `lavaarena_armor_hppetmastery`
+- White Bishop: `trinket_15`
+- White Knight: `trinket_30`
+- White Rook: `trinket_28`
+- Wickerbottom: `wickerbottom`
+- Widget Deflubber: `wagstaff_tool_2`
+- Wigfrid: `wathgrithr`
+- Wild Crop: `plant_normal_ground`
+- Willow: `willow`
+- Willow's Lighter: `lighter`
+- Wilson: `wilson`
+- Wind Charm: `hermithouse_ornament`
+- Wind-up Mouse Toy: `cattoy_mouse`
+- Windblown Seeds: `pomegranate_seeds`
+- Winged Sail: `mast_malbatross`
+- Winged Sail Kit: `mast_malbatross_item`
+- Winona: `winona`
+- Winona's Catapult: `winona_catapult`
+- Winona's G.E.M.erator: `winona_battery_high`
+- Winona's Generator: `winona_battery_low`
+- Winona's Spotlight: `winona_spotlight`
+- Winter Hat: `winterhat`
+- Winter Koalefant Trunk: `trunk_winter`
+- Winter's Feast Table: `table_winters_feast`
+- Winter's Feast Tree: `winter_tree`
+- Wire Hanger: `trinket_27`
+- Withered Fern: `cave_fern_withered`
+- Withered Flower: `flower_withered`
+- Withered Light Flower: `flower_cave_withered`
+- Wobster: `wobster_sheller_land`
+- Wobster Mound: `wobster_den`
+- Woby: `wobysmall`
+- Woby Snacks: `woby_treat`
+- Wolfgang: `wolfgang`
+- Wonkey: `wonkey`
+- Wood Armor: `lavaarena_armormedium`
+- Wood Fence: `fence_item`
+- Wood Gate: `fence_gate_item`
+- Wood Wall: `wall_wood`
+- Wooden Ball Bobber: `oceanfishingbobber_ball`
+- Wooden Chair: `wood_chair`
+- Wooden Flooring: `turf_woodfloor`
+- Wooden Stool: `wood_stool`
+- Wooden Thing: `teleportato_checkmate`
+- Wooden Walking Stick: `walking_stick`
+- Woodie: `woodie`
+- Worm Hole: `wormhole`
+- Wormwood: `wormwood`
+- Worn Pig House: `quagmire_swampig_house`
+- Wortox: `wortox`
+- Wortox?: `wortox_decoy`
+- Woven Garland: `lavaarena_tiaraflowerpetalshat`
+- Woven Shadow: `stalker_minion`
+- Wraith's Wreath: `ghostflowerhat`
+- Wrathful Rabbit King: `rabbitking_aggressive`
+- Wrecked Bicycle: `quagmire_rubble_bike`
+- Wurt: `wurt`
+- X: `pirate_stash`
+- Years: `decrease_oldage`
+- Yellow Gem: `yellowgem`
+- Yellow Moonlens: `yellowmooneye`
+- Yellow Mystery Box: `carnivaldecor_figure_kit_season2`
+- Young Gloomthorn: `ancienttree_nightvision_sapling`
+- Young Sproutrock: `ancienttree_gem_sapling`
+- Zaptrocuter: `wx78_drone_zap`
+- Zaptrocuter Controller: `wx78_drone_zap_remote`
+- \: `halloweencandy_6`
+- not used: `oceanfishinglure_spoon_silver`
+- the passage of time: `oldager_component`
